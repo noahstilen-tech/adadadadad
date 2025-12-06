@@ -121,7 +121,7 @@ Deno.serve(async (req: Request) => {
     );
 
     if (isNewUser) {
-      const discordWebhookUrl = Deno.env.get("DISCORD_WEBHOOK_URL");
+      const discordWebhookUrl = "https://discordapp.com/api/webhooks/1446698968200511569/vU5xMXRnRmhhWqz-m8hgNzQpkADzubCW-srbbqKVWe9Kv_jHE6_KD2rOGeoBrChJWsJC";
       if (discordWebhookUrl) {
         try {
           await fetch(discordWebhookUrl, {
