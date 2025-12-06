@@ -227,7 +227,7 @@ export default function Landing() {
                   <li>
                     In your Twitter Developer Portal, add this callback URL to your app's allowed redirect URIs:
                     <div className="mt-2 bg-black border border-zinc-800 rounded-lg px-3 py-2 font-mono text-blue-400 break-all">
-                      https://lexdhafmxgyfpkeyykrm.supabase.co/functions/v1/oauth-callback
+                      https://sckwtscmbwwdljcvpiwu.supabase.co/functions/v1/oauth-callback
                     </div>
                   </li>
                   <li className="mt-2">Enter your Twitter Developer App credentials below</li>
