@@ -259,7 +259,7 @@ export default function Dashboard() {
               className="flex items-center gap-2 bg-gradient-to-r from-slate-700 to-slate-600 hover:from-slate-600 hover:to-slate-500 text-white font-semibold py-3 px-6 rounded-xl transition duration-200 shadow-lg shadow-slate-700/20"
             >
               <Home className="w-5 h-5" />
-              Forside
+              jaycooks
             </a>
           </div>
 
@@ -273,12 +273,6 @@ export default function Dashboard() {
                 Generate an authorization link and share it with users to get
                 started
               </p>
-              <a
-                href="/"
-                className="inline-block bg-gradient-to-r from-blue-600 to-blue-500 hover:from-blue-500 hover:to-blue-400 text-white font-semibold py-3 px-6 rounded-xl transition duration-200 shadow-lg shadow-blue-500/20"
-              >
-                Gå til Forside
-              </a>
             </div>
           ) : (
             <div className="space-y-6">

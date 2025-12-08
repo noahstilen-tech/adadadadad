@@ -221,7 +221,7 @@ export default function LinkGenerator() {
               className="flex items-center gap-2 bg-gradient-to-r from-slate-700 to-slate-600 hover:from-slate-600 hover:to-slate-500 text-white font-semibold py-3 px-6 rounded-xl transition duration-200 shadow-lg shadow-slate-700/20"
             >
               <Home className="w-5 h-5" />
-              Forside
+              jaycooks
             </a>
           </div>
 
@@ -534,14 +534,6 @@ export default function LinkGenerator() {
               </div>
             )}
 
-            <div className="mt-8 pt-8 border-t border-zinc-800">
-              <a
-                href="/dashboard"
-                className="block w-full bg-gradient-to-r from-green-600 to-green-500 hover:from-green-500 hover:to-green-400 text-white font-semibold py-3 px-6 rounded-xl transition duration-200 text-center shadow-lg shadow-green-500/20"
-              >
-                Go to Dashboard
-              </a>
-            </div>
           </div>
         </div>
       </div>
