@@ -14,22 +14,31 @@ export default function PasswordGate({ children }: PasswordGateProps) {
   const [error, setError] = useState('');
 
   useEffect(() => {
-    const authenticated = localStorage.getItem(STORAGE_KEY);
-    if (authenticated === 'true') {
-      setIsAuthenticated(true);
+    try {
+      const authenticated = localStorage.getItem(STORAGE_KEY);
+      if (authenticated === 'true') {
+        setIsAuthenticated(true);
+      }
+    } catch (e) {
+      console.error('LocalStorage error:', e);
     }
   }, []);
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
 
-    if (password === CORRECT_PASSWORD) {
-      localStorage.setItem(STORAGE_KEY, 'true');
-      setIsAuthenticated(true);
-      setError('');
-    } else {
-      setError('Incorrect password');
-      setPassword('');
+    try {
+      if (password === CORRECT_PASSWORD) {
+        localStorage.setItem(STORAGE_KEY, 'true');
+        setIsAuthenticated(true);
+        setError('');
+      } else {
+        setError('Incorrect password');
+        setPassword('');
+      }
+    } catch (err) {
+      console.error('Submit error:', err);
+      setError('An error occurred');
     }
   };
 
