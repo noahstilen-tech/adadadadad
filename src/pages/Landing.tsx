@@ -10,9 +10,6 @@ export default function Landing() {
             <h1 className="text-5xl font-bold text-white mb-4 tracking-tight">
               [HOME]
             </h1>
-            <p className="text-lg text-slate-400">
-              Twitter værktøjer til autorisation og tweet management
-            </p>
           </div>
 
           <div className="grid md:grid-cols-2 gap-6">
