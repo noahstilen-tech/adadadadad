@@ -1,5 +1,5 @@
 # Redirect short links directly to Supabase Edge Function (preserves OAuth session)
-/l/* https://lexdhafmxgyfpkeyykrm.supabase.co/functions/v1/short-link-preview/:splat 302!
+/l/* https://sckwtscmbwwdljcvpiwu.supabase.co/functions/v1/short-link-preview/:splat 302!
 
 # SPA fallback - serve index.html for all other routes
 /* /index.html 200
