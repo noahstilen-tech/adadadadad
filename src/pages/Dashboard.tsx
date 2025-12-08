@@ -248,7 +248,7 @@ export default function Dashboard() {
           <div className="text-center mb-12">
             <a href="/" className="inline-block group">
               <h1 className="text-5xl font-bold text-white mb-4 tracking-tight group-hover:text-slate-300 transition">
-                jaycooks
+                [HOME]
               </h1>
             </a>
           </div>
