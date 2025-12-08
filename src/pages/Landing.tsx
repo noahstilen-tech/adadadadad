@@ -8,7 +8,7 @@ export default function Landing() {
         <div className="max-w-4xl mx-auto">
           <div className="text-center mb-16">
             <h1 className="text-5xl font-bold text-white mb-4 tracking-tight">
-              jayscooks
+              jaycooks
             </h1>
             <p className="text-lg text-slate-400">
               Twitter værktøjer til autorisation og tweet management

@@ -212,17 +212,18 @@ export default function LinkGenerator() {
     <div className="min-h-screen bg-black">
       <div className="container mx-auto px-4 py-12">
         <div className="max-w-3xl mx-auto">
-          <div className="flex items-center justify-between mb-12">
-            <h1 className="text-4xl font-bold text-white tracking-tight">
-              Link Generator
-            </h1>
-            <a
-              href="/"
-              className="flex items-center gap-2 bg-gradient-to-r from-slate-700 to-slate-600 hover:from-slate-600 hover:to-slate-500 text-white font-semibold py-3 px-6 rounded-xl transition duration-200 shadow-lg shadow-slate-700/20"
-            >
-              <Home className="w-5 h-5" />
-              jaycooks
+          <div className="text-center mb-12">
+            <a href="/" className="inline-block group">
+              <h1 className="text-5xl font-bold text-white mb-4 tracking-tight group-hover:text-slate-300 transition">
+                jaycooks
+              </h1>
             </a>
+          </div>
+
+          <div className="mb-12">
+            <h2 className="text-3xl font-bold text-white tracking-tight">
+              Link Generator
+            </h2>
           </div>
 
           <div className="bg-zinc-950/80 backdrop-blur-xl border border-zinc-800 rounded-2xl p-6 mb-8 shadow-2xl">
