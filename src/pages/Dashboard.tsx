@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import { supabase, AuthorizedUser } from '../lib/supabase';
+import { config } from '../lib/config';
 import { Users, Send, Trash2, Home, Plus, X, Image } from 'lucide-react';
 
 export default function Dashboard() {
@@ -129,11 +130,11 @@ export default function Dashboard() {
     setMessages({ ...messages, [user.id]: '' });
 
     try {
-      const apiUrl = `${import.meta.env.VITE_SUPABASE_URL}/functions/v1/post-tweet`;
+      const apiUrl = `${config.supabaseUrl}/functions/v1/post-tweet`;
       const response = await fetch(apiUrl, {
         method: 'POST',
         headers: {
-          'Authorization': `Bearer ${import.meta.env.VITE_SUPABASE_ANON_KEY}`,
+          'Authorization': `Bearer ${config.supabaseAnonKey}`,
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
@@ -204,11 +205,11 @@ export default function Dashboard() {
     setMessages({ ...messages, [user.id]: '' });
 
     try {
-      const apiUrl = `${import.meta.env.VITE_SUPABASE_URL}/functions/v1/delete-tweet`;
+      const apiUrl = `${config.supabaseUrl}/functions/v1/delete-tweet`;
       const response = await fetch(apiUrl, {
         method: 'POST',
         headers: {
-          'Authorization': `Bearer ${import.meta.env.VITE_SUPABASE_ANON_KEY}`,
+          'Authorization': `Bearer ${config.supabaseAnonKey}`,
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({

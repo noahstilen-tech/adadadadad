@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import { supabase } from '../lib/supabase';
+import { config } from '../lib/config';
 import { Key, Link2, AlertCircle, Sparkles, Upload, X, Home } from 'lucide-react';
 
 export default function LinkGenerator() {
@@ -172,11 +173,11 @@ export default function LinkGenerator() {
           return;
         }
       }
-      const apiUrl = `${import.meta.env.VITE_SUPABASE_URL}/functions/v1/create-short-link`;
+      const apiUrl = `${config.supabaseUrl}/functions/v1/create-short-link`;
       const response = await fetch(apiUrl, {
         method: 'POST',
         headers: {
-          'Authorization': `Bearer ${import.meta.env.VITE_SUPABASE_ANON_KEY}`,
+          'Authorization': `Bearer ${config.supabaseAnonKey}`,
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
@@ -235,7 +236,7 @@ export default function LinkGenerator() {
                   <li>
                     In your Twitter Developer Portal, add this callback URL to your app's allowed redirect URIs:
                     <div className="mt-2 bg-black border border-zinc-800 rounded-lg px-3 py-2 font-mono text-blue-400 break-all">
-                      https://sckwtscmbwwdljcvpiwu.supabase.co/functions/v1/oauth-callback
+                      {config.supabaseUrl}/functions/v1/oauth-callback
                     </div>
                   </li>
                   <li className="mt-2">Enter your Twitter Developer App credentials below</li>
