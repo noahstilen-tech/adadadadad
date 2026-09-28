@@ -84,7 +84,8 @@ def build(rnd: dict) -> dict:
         sigs = [s for s in sigs if s["signature"] in own] + [
             s for s in sigs if s["signature"] not in own
         ][:MAX_TX]
-    txs = get_transactions_batch([s["signature"] for s in sigs], chunk=8, pause_ms=200)
+    # Public RPC sustains ~3 getTransaction/s; bigger bursts only buy 429 backoffs.
+    txs = get_transactions_batch([s["signature"] for s in sigs], chunk=4, pause_ms=1000)
     events = []
     for s in sigs:
         tx = txs.get(s["signature"])
@@ -117,8 +118,15 @@ def main() -> None:
     label = os.environ.get("LABEL", "omego")
     max_rounds = int(os.environ.get("MAX_ROUNDS", "60"))
     workers = int(os.environ.get("WORKERS", "2"))
+    max_hold = int(os.environ.get("MAX_HOLD", "100000"))
     wallet, rounds = bot_rounds(label)
-    rounds = rounds[:max_rounds]
+
+    def hold(r: dict) -> int:
+        return r["trades"][-1]["timestamp"] - r["trades"][0]["timestamp"]
+
+    # Short rounds first: full hold paths are what separate triggering trades from
+    # ones the bot ignored, and each second of hold costs ~5 tx of RPC budget.
+    rounds = sorted((r for r in rounds if hold(r) <= max_hold), key=hold)[:max_rounds]
     todo = [
         r for r in rounds
         if not (TL_DIR / f"{r['mint']}_{r['trades'][0]['timestamp']}.json").exists()

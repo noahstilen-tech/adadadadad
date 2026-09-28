@@ -1,0 +1,2398 @@
+{
+"buys": [
+{
+"signature": "RSwz9HXMdhNbNkzwUmTpGosAZ2vz4eSqRRB6Xn2KbeQDyVv7ZgHc2kozSeJqaZVfFTyqQNorVFDFEu45MM1LxDQ",
+"vsPre": "42434347706",
+"vtPre": "758583618985364",
+"tokenAmount": "7135192454803",
+"solAmount": "402924841",
+"maxSolCost": "424343477"
+},
+{
+"signature": "3Y1QyRDFFsyZmKd7atsQdW3UhDV6mnh8noH7KJ6k7PXsxz6VFbNLXN3NcgWZnNoLX6e2wHpN46VihD5fT5bkgy1d",
+"vsPre": "44883575046",
+"vtPre": "717188860811591",
+"tokenAmount": "6745835812669",
+"solAmount": "426180873",
+"maxSolCost": "448835750"
+},
+{
+"signature": "4q3gBXhKQADxLFheYzBfRhQtoT6MxuBRFDVaTcJaqMncdc4W5ck4KMvrSHZEg5Jb7KemtcbzNo2w5g6T1npwXw4H",
+"vsPre": "44962370224",
+"vtPre": "715932018546952",
+"tokenAmount": "6860411297677",
+"solAmount": "435020032",
+"maxSolCost": "441339765"
+},
+{
+"signature": "24eegtHMFQW1G1whxP4DThia1sEKdgvCWqQGj2Q8WN2z9416Ko35t4KJ9vCLX5aS6GksLKnJXETGjbU85bv48bni",
+"vsPre": "51577632050",
+"vtPre": "624107770465600",
+"tokenAmount": "5892889058205",
+"solAmount": "491643396",
+"maxSolCost": "513801011"
+},
+{
+"signature": "2ZUhChfq1d1thgF4bNfeQMwLZ4W5quDGiUxP2fdYfeSnPP76qhgpeDhy9UkY3D3bAFwYvNE2XgHZhVFiExBjpAdd",
+"vsPre": "61924726499",
+"vtPre": "519824678090844",
+"tokenAmount": "4889440033708",
+"solAmount": "587990906",
+"maxSolCost": "619247264"
+},
+{
+"signature": "59hcN8aKasdzwUVvaWHWXHnRbx3eTn5nm87Vq45R5UhMNWV9uxn27zAJNWt3bcQ1Y4AjjDLFqrSzbLhrQbGXNTXL",
+"vsPre": "49546199392",
+"vtPre": "649696673714979",
+"tokenAmount": "6148465177448",
+"solAmount": "473364820",
+"maxSolCost": "492443605"
+},
+{
+"signature": "irw9nAYKyJ5xRc4CBAfJuUC2b9JVscFjgeJUPo1Zc8iQ5LRoWE2XU4o2hiybijRAbv2vjAy95CP8nH9m6Nm49dk",
+"vsPre": "42796592262",
+"vtPre": "752162701695500",
+"tokenAmount": "7074797679066",
+"solAmount": "406364444",
+"maxSolCost": "427965922"
+},
+{
+"signature": "3a3ddFLiWdiPqRtXpbnFpBS7hgFKJmtPTQkp8iY4NiG4ca8y4eYpFqUF16Fn6YXGupL12a8WnfwV27KL14uSoPNs",
+"vsPre": "36842411649",
+"vtPre": "873721306820792",
+"tokenAmount": "8226767988616",
+"solAmount": "350197442",
+"maxSolCost": "368039098"
+},
+{
+"signature": "2aWD3UbWnvK3YDjr6C7pj2tnpst2cPBs8dtuzKFYfshpbYwBqxWGVjxy16XDH34VbvuV4u8dPVMHLdbWCaVYnJBc",
+"vsPre": "42095141201",
+"vtPre": "764696340733457",
+"tokenAmount": "7192688353263",
+"solAmount": "399703990",
+"maxSolCost": "420951412"
+},
+{
+"signature": "WXVVfQHfAFFrUK3VZhLGHaffLa4eeLyeLKRdbABAdcHFmj875m9eT35Hb7ieJwU7WhQGtMLzEu5MKhZFCJhrxfe",
+"vsPre": "36056223672",
+"vtPre": "892772363651112",
+"tokenAmount": "8397363799916",
+"solAmount": "342362943",
+"maxSolCost": "360562236"
+},
+{
+"signature": "53rU3PRWYKVGd1ustdGbQiW7juJQH1nRFuti3CxysLSVgGTDbKdTXAyTP18izemjCuE2JBqCChymfjsZzJUos5vc",
+"vsPre": "45151991440",
+"vtPre": "712925386210025",
+"tokenAmount": "6831600273209",
+"solAmount": "436854655",
+"maxSolCost": "443201041"
+},
+{
+"signature": "578bGVfcnadMEiQwHN11GkBNLQxD329VsWHerXcDMeQxR82EYEXRczkFoYMxyLmW1RfwomR4Mii9rz3HBcqBz2H1",
+"vsPre": "61760779663",
+"vtPre": "521204576570552",
+"tokenAmount": "4902419279622",
+"solAmount": "586434190",
+"maxSolCost": "617607796"
+},
+{
+"signature": "wMdritV2vzLhmEQPNb4ThdUnm8dS2MgEnKD4t7E7KNjYPiAkfS46jCXnXCGijoZeYBT11mLdydW2Vew7bGpLUwu",
+"vsPre": "49010710882",
+"vtPre": "656795208804717",
+"tokenAmount": "6156978321260",
+"solAmount": "463787510",
+"maxSolCost": "491762699"
+},
+{
+"signature": "UiwtYy4uyMy4V1qLfv2ABUY7YPos3tWAAaP2wve1mEXphzAzJVnBGwT8EuNbUCGF1NjwoA8cz1L4QLdnFEv665o",
+"vsPre": "102344745242",
+"vtPre": "314525193702616",
+"tokenAmount": "2967523739376",
+"solAmount": "974812982",
+"maxSolCost": "1020302655"
+},
+{
+"signature": "4BQTU2DwiPwgrwapGxDRPhmcezyWnFnHBcg85FCRCZqvS9KJbthaVLJf2uVBEvftZZzgmJycrX7aMf4gpgALTcup",
+"vsPre": "34049528502",
+"vtPre": "945387540441393",
+"tokenAmount": "8892259043238",
+"solAmount": "323308867",
+"maxSolCost": "340495285"
+},
+{
+"signature": "b41WSA6weGdxfNh7Xyyawk5Tmd4epqPnQYGzh9M9Lky5T32dWLVGQ6bJi8UFfrE3AFvb1m9MZ5Wa54sM3myfWaG",
+"vsPre": "40229721193",
+"vtPre": "800154698091787",
+"tokenAmount": "7526207539082",
+"solAmount": "381991355",
+"maxSolCost": "402297211"
+},
+{
+"signature": "3oTmb2F9jCBSAc3Eq5Ka6SHjpKCgQeM742uGvhwrghJTKA6eCkhaMDc246FWuuiYSX7ERxJjebSpUXL1WB5RTEAR",
+"vsPre": "36531056135",
+"vtPre": "881168074714673",
+"tokenAmount": "8312693056967",
+"solAmount": "347905808",
+"maxSolCost": "364234826"
+},
+{
+"signature": "LhdASRrGHxywyysQqxyKapoedheBr5iNYt4J6qvKnBYgzvKBYtnkQsNWoZ4gtoqj3kAWd4jFTDtrD67RRUeNkRU",
+"vsPre": "56783124047",
+"vtPre": "566893794571911",
+"tokenAmount": "5383151737828",
+"solAmount": "544374674",
+"maxSolCost": "562453462"
+},
+{
+"signature": "soaW7Y71SDCMFCSG1ufdeCvTZhXdzeNnYZHkiPa7K96MBSf5zvZ5XJVscoo5aQDBNTt6UcfnMpfeFuLqVoeYEFW",
+"vsPre": "35356386059",
+"vtPre": "910443732143104",
+"tokenAmount": "8732736581921",
+"solAmount": "342413487",
+"maxSolCost": "346715174"
+},
+{
+"signature": "4oKt6Nc6uXUKPJm4jVv7HgLrvzNrcEUmQjmk48kRwykUuBG4HngeunQ9mH2kGmg9k5rCpsGfgPViduMWG8wVJTqQ",
+"vsPre": "44317339563",
+"vtPre": "726352286624129",
+"tokenAmount": "6847286285854",
+"solAmount": "421753166",
+"maxSolCost": "442185741"
+},
+{
+"signature": "63ZiEqRbwi68qKPFLZyMUZ8MCFZrqqLVB7iwmJ9H5JSwsS7gEWFvuXoiYUVTHketAJnES9SrAABsk6k52j7xhnZ4",
+"vsPre": "45282531946",
+"vtPre": "710870151930852",
+"tokenAmount": "6686402412425",
+"solAmount": "429969069",
+"maxSolCost": "452825319"
+},
+{
+"signature": "3Jt66MFob48Vzk2e8pT7CnJDYvsEQQjBpfMSkoevjavbCHred6cz4qoZJwgtPKH1yMCXt9PFbSQHqmfL6zMgaUQo",
+"vsPre": "43609132572",
+"vtPre": "738148138793815",
+"tokenAmount": "6942977531760",
+"solAmount": "414079719",
+"maxSolCost": "436091325"
+},
+{
+"signature": "5i72kYRPiEsS4sDMPtXp5ahxFQo2DaM8UCELcY6RviqAqFwSodLiGKQMmNfNqYZYKGu1v4c4YngvUPJZZWuTnbX9",
+"vsPre": "37189828298",
+"vtPre": "865559262908245",
+"tokenAmount": "8141398986310",
+"solAmount": "353126805",
+"maxSolCost": "371898282"
+},
+{
+"signature": "9aDwwHYN1v4FDwgMKRUQ4mtsAvYehS1s5maHErw8L2AM22rzEBRfkK5CiscCZeWs1nDxSmTA1WTu5iSmVSKfCpn",
+"vsPre": "36670038290",
+"vtPre": "877828372909950",
+"tokenAmount": "8256801507306",
+"solAmount": "348191268",
+"maxSolCost": "366700382"
+},
+{
+"signature": "SvLfZJ2mpnKmKFGrzxvppBHWXbUjeSraWthVzzvBUSmfrVbhSPZv5WWuTc4iWTyG25kVJUFoSNQpXMRKsXfnLyC",
+"vsPre": "39010504650",
+"vtPre": "825162362663525",
+"tokenAmount": "7761428153817",
+"solAmount": "370414587",
+"maxSolCost": "390105046"
+},
+{
+"signature": "Sf5bgHKtDjZMahmp5kqkjamqbHBLU9ojWQu5JVGZrdm41C1LTdfcgRiTdr5NX5ztt1aqg3q8Lbykad4NkJkNvSH",
+"vsPre": "46676278780",
+"vtPre": "689643669409325",
+"tokenAmount": "6500674522707",
+"solAmount": "444163665",
+"maxSolCost": "465762787"
+},
+{
+"signature": "2giQDGucoTTtAmWErgH98kqTNTGWJQjD1wKrGVdm2835mGJLZqkfD2prpCCLcQnbYXgdJXwXGTFuAnPPGbCLQber",
+"vsPre": "43120272630",
+"vtPre": "746516623597806",
+"tokenAmount": "7021691009201",
+"solAmount": "409437871",
+"maxSolCost": "431202726"
+},
+{
+"signature": "3w6ickjMd5K7JutLn8jomhhMeeKPWcnaDoo3tifUvpfCLft6fxCzQF4Pi5tvEqMzbK6BbRV5jSo6TAXHue9xVM1p",
+"vsPre": "60152066702",
+"vtPre": "535143714845809",
+"tokenAmount": "5035748443630",
+"solAmount": "571413176",
+"maxSolCost": "601255671"
+},
+{
+"signature": "3xuikoNEcymZwhBBn5KXmR1gWDsr8ASaVrpZbjnrjX2QnbpekpPDyrUiABzWzKUnTyt8S9ghh21b3pB1M2nbktap",
+"vsPre": "46628690728",
+"vtPre": "690347501864083",
+"tokenAmount": "6493367587929",
+"solAmount": "442751187",
+"maxSolCost": "466286907"
+},
+{
+"signature": "3wu5NAWc3NHq38r7qCWaTwkceWdu1QC8suTJ9KwX8H7XAXKAo2cVVmKgvXFLbkWTbmeVRwCXQyGh5T5eXBcme2TJ",
+"vsPre": "93611498328",
+"vtPre": "343868022157910",
+"tokenAmount": "3234402187655",
+"solAmount": "888864802",
+"maxSolCost": "936114983"
+},
+{
+"signature": "2ZXvnGTSWHkW9tn5Vm7xWwfHgRFDajkrckAaG4BgZyXdFMhKhXwGUE9P25hhfVt95BcZPCarV7mP9UovD65sWZzs",
+"vsPre": "42245025165",
+"vtPre": "761983231288418",
+"tokenAmount": "7261779098193",
+"solAmount": "406473196",
+"maxSolCost": "416946357"
+},
+{
+"signature": "3DVsN9N8fp83AQPa1XpEmRHaEdpAh46g7dL3iybVk26SKqkSs6TvZaQREdei3gJiWy54TjV1zWyJDkqvW5E45tZk",
+"vsPre": "41120155889",
+"vtPre": "782827778957513",
+"tokenAmount": "7435541353759",
+"solAmount": "394317360",
+"maxSolCost": "407202670"
+},
+{
+"signature": "4QFefbv5kR2jsVW86ByPv8cYFywY8Bm2Fo4BXYXVYj8nFwjXWHb3A2LgEm8ccr7vLaaj7KmvvvyQ79ya2wPu9zfZ",
+"vsPre": "47815389186",
+"vtPre": "673214226055594",
+"tokenAmount": "6398293222166",
+"solAmount": "458802596",
+"maxSolCost": "473215620"
+},
+{
+"signature": "3D7wV29gaec7azjNuU8ZjjQjiSNWHBDXaopdLYpiraPDDyTVK7tf9tFo9jiZvgaCRFDWAHERfwe5ixkoGkQ5gvor",
+"vsPre": "92585730517",
+"vtPre": "347677774935334",
+"tokenAmount": "3272146264305",
+"solAmount": "879643151",
+"maxSolCost": "925316933"
+},
+{
+"signature": "23cvNuDnsDCX4dLgLLYjuSEXak623i1RE3XSsPveUTkoNarHJnKA1TpNNtCACNBpxzwaoveraXfcSdhUciF8PhcU",
+"vsPre": "43415523032",
+"vtPre": "741439894685275",
+"tokenAmount": "7111631784373",
+"solAmount": "420459391",
+"maxSolCost": "425749313"
+},
+{
+"signature": "4TDP8o1g89pzieHP69D57WPfqo9m4qUeaEXnTvCNaDgBdrso4kxupJYH1PTYUMg1pxkWsD9nFG5X1MCjFGr3NPPo",
+"vsPre": "47033517673",
+"vtPre": "684405563633288",
+"tokenAmount": "6437478063885",
+"solAmount": "446595120",
+"maxSolCost": "470335176"
+},
+{
+"signature": "4YtgpoMksK5bkcRKyQWUoPTgFFt3VWfQ93u853tmzuevjvDkUSyALDhHuaNPBt1afqqAEMdvaotop7zJpF4xETqh",
+"vsPre": "38943134842",
+"vtPre": "826589850925220",
+"tokenAmount": "7779138857528",
+"solAmount": "369980570",
+"maxSolCost": "389216894"
+},
+{
+"signature": "2MbxqfeL2WLHV45SuDes2UhEB7DrwYBN9YkdXYNA3QWPdg2nBjR4cMT2m55LCrSC3gQZHSNj3TdSi7eAPTWAAA6H",
+"vsPre": "41532350819",
+"vtPre": "775058466130839",
+"tokenAmount": "7324992071232",
+"solAmount": "396262702",
+"maxSolCost": "413348199"
+},
+{
+"signature": "62eShFKKrK6drrxDazfvwG4vrqKfJ3ebMpd2hA3VYampvHD673HLYk9Hq5GFR6RHtHvbTfyzn7McATPWt47AvE6z",
+"vsPre": "42710505162",
+"vtPre": "753678752746661",
+"tokenAmount": "7113732679902",
+"solAmount": "406972077",
+"maxSolCost": "425623570"
+},
+{
+"signature": "DhxkUqrwpe2GpJDxEozvA7jFKwky8kpqRCDdYD3Ca28LyiZQwXUVRbfGdJ5WGt5LCk6WAKwqEd3riussks5pfEk",
+"vsPre": "53477267144",
+"vtPre": "601938016351477",
+"tokenAmount": "5685414364055",
+"solAmount": "509918820",
+"maxSolCost": "532550855"
+},
+{
+"signature": "4auf3di77Cf18mST9Ej5NHZo2HKrerbvAFTWTFL3Ghj72eiJBUJ2fBfLQk3cG3H4HjSKoCHP2W3uMXcBpVvb1dKk",
+"vsPre": "44204203213",
+"vtPre": "728211298541093",
+"tokenAmount": "6880257318001",
+"solAmount": "421632060",
+"maxSolCost": "440066723"
+},
+{
+"signature": "2w2KRuzyoqqn1GAALa2ipgARE5yUhTqhrG2zWaJjahgmZCYp58AS29MLSKGZuf3p9WifwrYxgFrdpq3BFZLnef22",
+"vsPre": "52467816486",
+"vtPre": "613518957923140",
+"tokenAmount": "5770722862188",
+"solAmount": "498195159",
+"maxSolCost": "524678164"
+},
+{
+"signature": "56fwGgZAjmLavF2YweNN7PXVpkrV1GdceGdD2eFT1puWRCaTeMPrdUPYhjW4mGTU3YCcKiBHn5567CAFD18Sc6qC",
+"vsPre": "62929268144",
+"vtPre": "511526694885669",
+"tokenAmount": "4811389701039",
+"solAmount": "597529283",
+"maxSolCost": "629292681"
+},
+{
+"signature": "2kHdkSgkLzidQe7yrhkG2GEXM3eRKYtbZLL66UC9ZqsqhNaqd2RYVPuXzJ3npezhBxmdYfJVwiKzr6BUTTfx1krn",
+"vsPre": "48999404377",
+"vtPre": "656946765235397",
+"tokenAmount": "6191838797067",
+"solAmount": "466222231",
+"maxSolCost": "488994043"
+},
+{
+"signature": "4QmDmeBVT9NdfPCYJxiD676NiVibfr1UQKNa4Sui6NcirECe9ZDGemn9GyxnTQtTbhD4RDboG39EBwq2ceCFpzAX",
+"vsPre": "37868726731",
+"vtPre": "850041783850667",
+"tokenAmount": "8047906706094",
+"solAmount": "361955103",
+"maxSolCost": "376218610"
+},
+{
+"signature": "4y4UoL7enfzKPPnV5qew5JxTHEz1brjzCydJmxtfcYtqQiEo7Vmd33cw1EA62y44K4kwFDJRqcNRQRTsFTw7jpAj",
+"vsPre": "39368327839",
+"vtPre": "817662365349508",
+"tokenAmount": "7835966439480",
+"solAmount": "380932131",
+"maxSolCost": "386394237"
+},
+{
+"signature": "5AZYEip7Qr4RhRkEMQaJew4zFR3L7hHaP4n1nxGPU4beq4B5qt3RdeuPLV3e2rP1fdsEgi2ZDX7gxxkR8VWBowgr",
+"vsPre": "57310470927",
+"vtPre": "561677465710500",
+"tokenAmount": "5145555960582",
+"solAmount": "529878396",
+"maxSolCost": "588424711"
+},
+{
+"signature": "4kbm1QwRdKC1MiqNeG3CWcGFpsBtJvoeQPAkyw3UcSg1WjZ553GETMrxYa8AJbzAkVfTZYGKkjc4izgHEgawqzAx",
+"vsPre": "52727203828",
+"vtPre": "610500800951429",
+"tokenAmount": "5845386531377",
+"solAmount": "509729807",
+"maxSolCost": "517976402"
+},
+{
+"signature": "3k3HWuRoJKTNBZ5p5zipGPq5tUBZrvE2nw21fc78F3jY1a1uRJ4qXRW5Te7kkiyhMpn4DQg14iu2pKDhGTvw6Ywn",
+"vsPre": "54812059406",
+"vtPre": "587279523803892",
+"tokenAmount": "5576807923514",
+"solAmount": "525485474",
+"maxSolCost": "542922103"
+},
+{
+"signature": "1xCPbwCDrLhard7owaxtBtmgjqZWrWccVMebojpmGgegZDQpjVoDR8XkBCaboRkPB5YGPjVfQbWcfqbs4a93CUg",
+"vsPre": "36606432122",
+"vtPre": "879353659018476",
+"tokenAmount": "8271148272974",
+"solAmount": "347587312",
+"maxSolCost": "366064321"
+},
+{
+"signature": "3itRiVsTAKMCtnx4n29yPYG473GwnVsA183WDwzgxh9vvsnpLWk5QVEr27PtYXd2Co23Zg57dEPZPALguE6EsnHD",
+"vsPre": "42435470939",
+"vtPre": "758563533140444",
+"tokenAmount": "7135003523046",
+"solAmount": "402935506",
+"maxSolCost": "424354709"
+},
+{
+"signature": "3vzPL3Tri6twa3RX98D42Xs5g2XoNK2NqepmaGtpUG1K6CJBHgQFWJbDANKXeCUc7aFvwrLvrqtjRfVJFZT6674k",
+"vsPre": "39481801574",
+"vtPre": "815312340291768",
+"tokenAmount": "7668779424156",
+"solAmount": "374889670",
+"maxSolCost": "394818015"
+},
+{
+"signature": "2rS9fg94URJnTEVArkWmysuF4sfR5DkbQzbtBTuiJWt8iNsBsvKX6bETg4323MCAfJXYHHjKncpbUD41sG4SKr1g",
+"vsPre": "49426331928",
+"vtPre": "651272284457575",
+"tokenAmount": "5880322152394",
+"solAmount": "450335256",
+"maxSolCost": "514899048"
+},
+{
+"signature": "F5zKxLoeCvspDzC6avuyc1CCJBkE7RUHW1nQmf8fitgRBhFPpL5Kgc9z853DwYKBnXqeifFDpkmex1Z62AwZHze",
+"vsPre": "47439825865",
+"vtPre": "678543821864507",
+"tokenAmount": "6382342870264",
+"solAmount": "450453119",
+"maxSolCost": "474398258"
+},
+{
+"signature": "3Su9ZcXxaqy3FtRwAxEP3tMHdNFKCXVizxJpV7EHrdN86PyeHDG2Htci5m3Mu7bGzp5tkWpGvfL6CVXksuBh35wp",
+"vsPre": "66777112207",
+"vtPre": "482051408561572",
+"tokenAmount": "4534146911741",
+"solAmount": "634065534",
+"maxSolCost": "667771122"
+},
+{
+"signature": "3YzEkBhgpfcTAakhm9CdvN4EizVPyCAGBjVB3AGcPNeYGbZkpQe8Mm1o7L5SvCHGyMt83iUtkbNfzXURFH7mm5mY",
+"vsPre": "54901099222",
+"vtPre": "586327067964341",
+"tokenAmount": "5615484060145",
+"solAmount": "530893918",
+"maxSolCost": "539182782"
+},
+{
+"signature": "2AhCzsHNFswCQDNDhXEE9hvqf9UgefecgcT2HqiLNyoFrhcc44vnsngzyqEHeSpo8AW7akJNDLPjiDmNtZbdSnfj",
+"vsPre": "37167154120",
+"vtPre": "866087296486312",
+"tokenAmount": "8146804042971",
+"solAmount": "352930681",
+"maxSolCost": "371651541"
+},
+{
+"signature": "3YRYjn1V7mSAKNrCwm3h6Zb6nmWAwMkGBPW2DtANpGGgmYpiQsvgd9sNCPavMPLFVMJ42gMVMkMQkHewPZgKLa9Q",
+"vsPre": "40873986479",
+"vtPre": "787542480918556",
+"tokenAmount": "7407577776641",
+"solAmount": "388108817",
+"maxSolCost": "408739864"
+},
+{
+"signature": "3UzQsLcT83sarkTrRarTZP1jJSxMvJrrRWfyxQZTe29stYFZwj9XZgToqscFG5R1mUR8cBzHUPbBeJ5agdGPHA17",
+"vsPre": "43493027125",
+"vtPre": "740118654434649",
+"tokenAmount": "6961512092205",
+"solAmount": "412977269",
+"maxSolCost": "434930271"
+},
+{
+"signature": "2DW4PdmUizeQUTAsheTrL8u4PDYs7pQz4MHi3PxHhJLSETsa9fmsgVJBgSSdP62bWtKJMr85Z2tuMwfxUB9UcMqq",
+"vsPre": "37232820672",
+"vtPre": "864559814054312",
+"tokenAmount": "8131998235435",
+"solAmount": "353535029",
+"maxSolCost": "372328206"
+},
+{
+"signature": "2kmyo394SdR9paLxzj9P9R8oXQpjKPHqLyVTiyn8fNYWA6foeFeH52ScrfcDjpH2irxwLVVDdmoWVFSfPRKzhWgM",
+"vsPre": "50264037935",
+"vtPre": "640418121323746",
+"tokenAmount": "6059454050829",
+"solAmount": "480126850",
+"maxSolCost": "499677416"
+},
+{
+"signature": "3S3ZTYALj6MGo5k5G6LccaVJTY1eJLC3CGme2HRqmZKq95k5Pv4LkLrgHvmVjLeWpgbXn6jZhMR6Cf6aSnaL5HW4",
+"vsPre": "78723771133",
+"vtPre": "408898103367244",
+"tokenAmount": "3846071267698",
+"solAmount": "747502075",
+"maxSolCost": "787237711"
+},
+{
+"signature": "451as8j97xyPftRzfZunY9UUz6Px4wcfy3qGndze67w1FP78r9R2aoaWJ33ozeM3JgYwruTL9n5su9VGqaFB1mFK",
+"vsPre": "38063088015",
+"vtPre": "845701229338987",
+"tokenAmount": "7954615520381",
+"solAmount": "361418627",
+"maxSolCost": "380630880"
+},
+{
+"signature": "5ELhiuYKDiAhZAVvtNV718S6QAdfnmXr9s94CJxTgfDMCWfQwDMNHSQRKp6GjtDs7mNg9D8AuHD3APkZHw3gWaCm",
+"vsPre": "48249057672",
+"vtPre": "667163303336363",
+"tokenAmount": "6353329674844",
+"solAmount": "463888534",
+"maxSolCost": "476564650"
+},
+{
+"signature": "4ge9yuiN22rDLruYHgF6YTcdkukWQxZKDAwSJGiDjMQat8WCTw7PvwWCB4gSKJcZ61U1Sr44YXyi5HkDNxqULUrx",
+"vsPre": "36385421154",
+"vtPre": "884695004972380",
+"tokenAmount": "8321388648402",
+"solAmount": "345488757",
+"maxSolCost": "363854211"
+},
+{
+"signature": "4bkSddBxaxPVcBVRgYsFpDBnsHKqbqoM6bUF9X5ehKN8GBatEEaYsXjhaPuwVpgPVbpmPhiBN7bhmR8ezTqm65bu",
+"vsPre": "48115514232",
+"vtPre": "669014992791781",
+"tokenAmount": "6292715274590",
+"solAmount": "456868951",
+"maxSolCost": "481155142"
+},
+{
+"signature": "2eYbRFDnLjgtGoenrsFCR1RToPyo8H9KVNZuV69xC1yPFKtV3cM9uCaH9Mxqb1HLs2DhSZVjUhqjAMSEU27AEfog",
+"vsPre": "40652157804",
+"vtPre": "791839901759058",
+"tokenAmount": "7466365543196",
+"solAmount": "386963426",
+"maxSolCost": "405521578"
+},
+{
+"signature": "49oNaV3PNxBHkDwfkkQzDUv2fsyN8pRriiGpVPDhZV1MkvZ3rUpeFwF2HN4QkdfAB4hyCp9BzSyuX2sHDm6bwAmS",
+"vsPre": "39992513708",
+"vtPre": "804900654717150",
+"tokenAmount": "7589825857422",
+"solAmount": "380699978",
+"maxSolCost": "398925137"
+},
+{
+"signature": "43dtxXNquHKBut1koQKAYmNduk5DtAHT9SgtgN8uErNA126BbhjHMPYqr8jZAn7socSqoSAkcZBKpAQaqnGnAy2H",
+"vsPre": "85584708523",
+"vtPre": "376118602145979",
+"tokenAmount": "3537749227163",
+"solAmount": "812648407",
+"maxSolCost": "855847085"
+},
+{
+"signature": "2RQAM2GT9yGUhyvkwHhNUDKr71UacXDWv7EsqgCWX3vpEqaCGy6o566hnHMnHJzntdBJQhRuYmTPg6B6JHGXf4gG",
+"vsPre": "48632982080",
+"vtPre": "661896490364773",
+"tokenAmount": "6280720848160",
+"solAmount": "465898166",
+"maxSolCost": "482074011"
+},
+{
+"signature": "DPE4v8dJxKMswK8N2RQPRCCEG47YMgbxikWCCMeTmLWMJti69jkvqSgHuAtM5aFSvqxFZTEoaC7LKdSzVMVxhJo",
+"vsPre": "43463921721",
+"vtPre": "740614256991048",
+"tokenAmount": "7014590342204",
+"solAmount": "415596707",
+"maxSolCost": "431639217"
+},
+{
+"signature": "5JHWcn53kR9PLvTz9T3ZY6r5SHPuA6y2VXeHcNQDagRZ7kgUmR6rf1BYUv1yr2HY7PiYMbwyF6i7TsLDDvCjhJ3o",
+"vsPre": "52131036159",
+"vtPre": "617482452880311",
+"tokenAmount": "5801166484699",
+"solAmount": "494409142",
+"maxSolCost": "521924734"
+},
+{
+"signature": "2kLBcwYPV3kNnmT55xZjLkMq5iX5wcmPuTT1Y922BtpmUaZDrbWrhtg9YjEZ8DXEoC64N9kXQrt3t3xmp6iHtL11",
+"vsPre": "103414629133",
+"vtPre": "311271243533393",
+"tokenAmount": "2890735443803",
+"solAmount": "969400874",
+"maxSolCost": "1047405531"
+},
+{
+"signature": "FvbbHY2upiaiodZn1BDoZKx9P9GbAqw6sdh5LAEjXS7eagUAUe5Dz9YiygW7K3dsT76pTSN23hUAFNBT7Whkotr",
+"vsPre": "45517306773",
+"vtPre": "707203530533596",
+"tokenAmount": "6742949371177",
+"solAmount": "438170118",
+"maxSolCost": "449027882"
+},
+{
+"signature": "45ovbXh4bjf8BQe3vumPpDgvwP8vJVr3NVxWqc84Y8b3EE66wNQysJXxsja4byyZbtrzzmVg5bT9DaM5y9yhhWvz",
+"vsPre": "45219071760",
+"vtPre": "711867783772220",
+"tokenAmount": "6695786076189",
+"solAmount": "429366498",
+"maxSolCost": "452190717"
+},
+{
+"signature": "2TYm5JUVKERkB4PjMUCY37vhsDNGKREbHcB7AxZSkdyiMAWH9cLmmBtQc2fMS6xtRbNuFTtM6EEDbfiptYzcE6Kc",
+"vsPre": "72310958310",
+"vtPre": "445160761271223",
+"tokenAmount": "4187155674749",
+"solAmount": "686610799",
+"maxSolCost": "723109583"
+},
+{
+"signature": "3aRiatPjGwfvT9wRd4Tpd1PBe2DXtMVNY7xYK3RQub84vLcjmLDGpNn5ciejSGKPMgoE2w6nZv3E8sJcdY17Uaqm",
+"vsPre": "103388569628",
+"vtPre": "311349700383718",
+"tokenAmount": "2928536785001",
+"solAmount": "981700561",
+"maxSolCost": "1033885696"
+},
+{
+"signature": "2j3MyU6eVoHPpxW4VDbNPZtuJbf6W4nyrzMXZSyx7D3y16sqW8jTRWT7Uh4AsK8xYT96xeaz1GQj8Vk5J8XFiYLM",
+"vsPre": "45232750630",
+"vtPre": "711652499276079",
+"tokenAmount": "6726802771658",
+"solAmount": "431636688",
+"maxSolCost": "450105701"
+},
+{
+"signature": "2Zjge5W99fqyjyi1DDbytZ7KiMF4bHRh2qHbLfvcwEAVHFYG3ukbsxCTP5KFYcmdD9VkXNrjyGCNPK4gxUWcKQ7A",
+"vsPre": "103070965215",
+"vtPre": "312309097847532",
+"tokenAmount": "2921488783846",
+"solAmount": "973279667",
+"maxSolCost": "1036379912"
+},
+{
+"signature": "4kpasW75YcWJb1XwnY7pWWtGscv7jLfyqCzfPoUho7eGkifDC3n6A3dHpM4Pqbz1hSA32WNmNvtNAo27yKMLWHEa",
+"vsPre": "38282682019",
+"vtPre": "840850184602985",
+"tokenAmount": "7929700425612",
+"solAmount": "364464803",
+"maxSolCost": "381826820"
+},
+{
+"signature": "dtssts8faTACWUFNzErcEVLq9oT2n8yYrDeAeYtujc5q3CedfWcYAGxEVapkLgquNW1xUzd9HjdNJ3aHW6EV8C1",
+"vsPre": "52445350503",
+"vtPre": "613781775680433",
+"tokenAmount": "5752584992494",
+"solAmount": "496187257",
+"maxSolCost": "526332477"
+},
+{
+"signature": "2mz3UKK4SGhCDncqg8WqdDNLuxz2o8BCYk7Fb9vKCQgregPTpoDgPPGXS7uk9sqPRUsT2LvKCs6N8pFa6Lo1tekX",
+"vsPre": "38623499106",
+"vtPre": "833430457368187",
+"tokenAmount": "7988228737493",
+"solAmount": "373779454",
+"maxSolCost": "379029246"
+},
+{
+"signature": "3enLV6d6ERXHp6CVSmXt1c3aMdohPhd9kPkh7Dg8L6Hmsqrxf7qHi3CqE5vTZL6Qu2HjL73aGSAmgiF3rK3DjNLx",
+"vsPre": "72065385948",
+"vtPre": "446677697491081",
+"tokenAmount": "4201423884521",
+"solAmount": "684279027",
+"maxSolCost": "720653859"
+},
+{
+"signature": "trT3VNJkeahFmgWZbRq5b3s6NZQEHmwKSq188aWu5Ja9mtdRDVJghBEyGo29EAq8gXs7XSxE8UnE77fF1xDqnTk",
+"vsPre": "35164081147",
+"vtPre": "915422755838022",
+"tokenAmount": "8694170376082",
+"solAmount": "337170922",
+"maxSolCost": "348253157"
+},
+{
+"signature": "2aqYgGi566BmjvRwX2N66wceo8M2VCvT9Dk1bodoDAfvQdEPuH3nymNYU8HE12oVvG6WumZBvixx9Kf6dxoy2DF9",
+"vsPre": "41523396442",
+"vtPre": "775225603006147",
+"tokenAmount": "7302147380133",
+"solAmount": "394843990",
+"maxSolCost": "414641354"
+},
+{
+"signature": "x3b3TdDv4MFnDnShavKDchoFdRN9ustKRaUHupVqNiqbuCR9q9MTzRw5UUNJP116bfKvxRwN3aapMhAt3H3y3J4",
+"vsPre": "35892709406",
+"vtPre": "896839514337111",
+"tokenAmount": "8602248705681",
+"solAmount": "347607588",
+"maxSolCost": "351974511"
+},
+{
+"signature": "w7ZYX5SP1kzd4F85H5Znqhuv7fkQ9BvH9xhzXyfPYxv4GoURakGKV4jzXmPJyL1GWfgBCJnJ8QRRrBHiStn9ioe",
+"vsPre": "65852701643",
+"vtPre": "488818218271117",
+"tokenAmount": "4597795119379",
+"solAmount": "625288022",
+"maxSolCost": "658527016"
+},
+{
+"signature": "27KZMfxCy4qvrcxGaydea9haTCZE1neSTgd7N2oGh2t6rNrEJEWbu49tZG9CWvh2XtUx48xDqcmhPeVQLoMmAuTg",
+"vsPre": "46316013454",
+"vtPre": "695008012998081",
+"tokenAmount": "6537204075108",
+"solAmount": "439782237",
+"maxSolCost": "463160134"
+},
+{
+"signature": "5yWiwq7CVGuMTEekLd8MercYwka6QyZrAgmwLJqxFnqNmk5BGiBkd5vAa14zBzPwrb6Du11kkMPnkWLYhF88pnce",
+"vsPre": "51791550892",
+"vtPre": "621529953548816",
+"tokenAmount": "5902352142652",
+"solAmount": "496553389",
+"maxSolCost": "512977237"
+},
+{
+"signature": "qZamn7WiFqsv918X3wQ95jhrfRGEnLYcjQhSrUUAfhULh5zhqi3EuccM9rcxi8uEqN4EDWGyGJksuoDaTPuZ5GN",
+"vsPre": "62221268639",
+"vtPre": "517347225101554",
+"tokenAmount": "4866137262785",
+"solAmount": "590806649",
+"maxSolCost": "622212686"
+},
+{
+"signature": "6jdz4NWAbvzx1QCTDcc26fySxX7kRoWF5q3ChKEeKFXqPZAsn8rXGMcXDomoGFiR7HXabssW84yYDhZKuDxvGth",
+"vsPre": "37166750105",
+"vtPre": "866096734911628",
+"tokenAmount": "8146454436201",
+"solAmount": "352907673",
+"maxSolCost": "371667501"
+},
+{
+"signature": "2Jy2hdreEtN29F2MTrHeh6GmKfgo38yxeBYnJKnBcgbFVkYJEy7tQ91379Kq8YuR9C6aGtQRwYUbFvgC49Y2LqBT",
+"vsPre": "67432467716",
+"vtPre": "477366493064751",
+"tokenAmount": "4490080874305",
+"solAmount": "640288300",
+"maxSolCost": "674324677"
+},
+{
+"signature": "2hRUvNwXp3BCp5mVC6C5knZr5kdAz5h8kjPmAbn49tZFzf81mFuCx79mQARFVTjXtTfsMAP89Qv2RDBGXQ7hMYj9",
+"vsPre": "40778771792",
+"vtPre": "789381308096919",
+"tokenAmount": "7424873673434",
+"solAmount": "387204729",
+"maxSolCost": "407787717"
+},
+{
+"signature": "3V46H9QVvwduGGCUpVszMxLnsMAmoBN2a2HEM84SuM3QH8HZwppoRAUqxFcvBWxpt4Si95KWo5rCcv2nmgHkcYtx",
+"vsPre": "61130004369",
+"vtPre": "526582658616118",
+"tokenAmount": "4953005199268",
+"solAmount": "580444819",
+"maxSolCost": "611300043"
+},
+{
+"signature": "4b4XwW2Y3jbvvWXhJdpAvw8dsmqEZnCvossUZyBTjoP8MhAwMKtvPiHR21U2XxDxdGHpmZpQkmKYKLzryQP1o6n",
+"vsPre": "57842212173",
+"vtPre": "556513988651747",
+"tokenAmount": "5234537510480",
+"solAmount": "549226402",
+"maxSolCost": "578422121"
+},
+{
+"signature": "2Lvm8fjzjmmNaTBSpbVjACMa42679PJCLAMxrU8pLNbUbxkTXtvxozVwcRty5QXL75cnGhTe5iFbxWDfvNMDhd8T",
+"vsPre": "43517364635",
+"vtPre": "739704724252002",
+"tokenAmount": "6957618687918",
+"solAmount": "413208360",
+"maxSolCost": "435173646"
+},
+{
+"signature": "5QEk3VS1QYLZ4qGgqkS5EMBbKoaiKMJCxqHGc4VevMbm9pbTer5kMcbt8rKuZ84XcYnR3VVgPWyaJpZX5KkGL88m",
+"vsPre": "57027839651",
+"vtPre": "564461154245009",
+"tokenAmount": "5355237131796",
+"solAmount": "546224956",
+"maxSolCost": "565385289"
+},
+{
+"signature": "4X8gJX5hkc8iasDHJXKNAuNRWzbo5Wfw7hT7ipWnA6qcRZnkHDrHYW8AmeT4ZPpAiSCBjR1cFMPgdnm3p97AkZqU",
+"vsPre": "43345275102",
+"vtPre": "742641501838331",
+"tokenAmount": "6985241848655",
+"solAmount": "411574327",
+"maxSolCost": "433452751"
+},
+{
+"signature": "mHTz59eUjpv6dtfAubnEpfHGejTbNDZw6BZm1BVTYbYQhdy12R3J25HJ9EMAKCAnxyAizJa19QEibuqNBXP8wUa",
+"vsPre": "43274650413",
+"vtPre": "743853500506925",
+"tokenAmount": "6996641834369",
+"solAmount": "410903727",
+"maxSolCost": "432746504"
+},
+{
+"signature": "3kH8TFQubxpA4fxdvzV9KP3tjyV93G1cFEWBN36ehmQhkQnmYAUoH3KS5Bky8X24NLbKV6ZUa5unqFwZw44WC8Dn",
+"vsPre": "36305656148",
+"vtPre": "886638708169065",
+"tokenAmount": "8385293482906",
+"solAmount": "346635239",
+"maxSolCost": "361081252"
+},
+{
+"signature": "3nvA5LuhtAXA5FpxHwShKe4937vJ25o4ixMr53qZ95mr4awH1QAZorE75EdqLcUzUmwSmY8QSFKSH3cjFJzBqEhY",
+"vsPre": "42007044796",
+"vtPre": "766300041677148",
+"tokenAmount": "7293340353927",
+"solAmount": "403648182",
+"maxSolCost": "415142052"
+},
+{
+"signature": "2Nvhs7WjboVtRvRMGpcy2e1cSa52p6nxgpRSoQhvLmVSJjCHfZMkzxcmoRiRidUzKYKeUjrWk6JXk6G7iBiLPJ7D",
+"vsPre": "39904329857",
+"vtPre": "806679382357703",
+"tokenAmount": "6972503497213",
+"solAmount": "347918828",
+"maxSolCost": "434244643"
+},
+{
+"signature": "5zNxrqQD7eZQHKJue89AfyryxnMG3LiEbMkRfqrtgcWWPjabZ1S6k861wYmomLBp97AESYBcozVQLYaizWCzFH7C",
+"vsPre": "40660528386",
+"vtPre": "791676877918010",
+"tokenAmount": "7283517033091",
+"solAmount": "377555021",
+"maxSolCost": "415701957"
+},
+{
+"signature": "2FGPFyQwY5bmYg9JoQU3WjXc8AH6cFCqpn7nPbHRwvQyqfZd9S79Sg8SDeZiRAPyRDqiZpWhJis1qXzAYRvUN1sX",
+"vsPre": "50970914656",
+"vtPre": "631536638483815",
+"tokenAmount": "5989710535463",
+"solAmount": "488054551",
+"maxSolCost": "505495594"
+},
+{
+"signature": "51f7XQDJek99gq5t8sQ96VUoWQ4qTFyZyMjQDZiZGHN5jMBwUUeMzM7KbqkxL25inCV5gdFv9FZzBM3SpLyUphEi",
+"vsPre": "43331146533",
+"vtPre": "742883646794993",
+"tokenAmount": "6987519444782",
+"solAmount": "411440172",
+"maxSolCost": "433311465"
+},
+{
+"signature": "2K6tve5kK443R8EDLXG4fyivHFZaqVbRcP4EEtfBYWYCJT1uVw7qavhWkQve9gc2eaa18dW9e8gqMpsyXE3njnSg",
+"vsPre": "38132188087",
+"vtPre": "844168710387771",
+"tokenAmount": "7940200723333",
+"solAmount": "362074749",
+"maxSolCost": "381321880"
+},
+{
+"signature": "4exQSghNhC1JHaEjc5mQqDGgaGnJyUL7VgWtZDoNtecZvFncVW62mLsypSD1oms1uVV3moLMBwx6e3MTYCiSPuyb",
+"vsPre": "53293149218",
+"vtPre": "604017600560993",
+"tokenAmount": "5681353666742",
+"solAmount": "506031902",
+"maxSolCost": "532931492"
+},
+{
+"signature": "3tgujTSjFi3BiXj12WLdgd7v54FRSm8RpgPs68SmrAwkyMsKTJd7Y3vHzN1oLx17kUeDHdC3EzmRi1Asqgg5gkBy",
+"vsPre": "49150988785",
+"vtPre": "654920715217466",
+"tokenAmount": "6250848140403",
+"solAmount": "473639031",
+"maxSolCost": "484377844"
+},
+{
+"signature": "3g1UhbWbXEZ1XAZAHpczv4HQiBX4RcKJmbksaDtXknCfxK11ovomt3ewxpAcWEGxinRWzqWNmuatJsTxNmYvF5Tm",
+"vsPre": "43916885390",
+"vtPre": "732975490450184",
+"tokenAmount": "6894323906087",
+"solAmount": "417001910",
+"maxSolCost": "439168853"
+},
+{
+"signature": "4nWbGvGK8aG8khsk6cq6EVdshgrb4BTWCZUQv3z4f7dztcgNTYgNR28SkYUDGdGYCvJsrooxJXb1PgiR57TApxWC",
+"vsPre": "54914233124",
+"vtPre": "586186827830281",
+"tokenAmount": "5305323319744",
+"solAmount": "501544221",
+"maxSolCost": "570704574"
+},
+{
+"signature": "eBoM9KRgdeRgNW5bAijsYYgwb3CA3DF7hXu3FPZyaUt6YD5bZK99P1b3MnsWdJqV3R7JL25FWRtpwftDnNgMAu5",
+"vsPre": "62213543878",
+"vtPre": "517411466577430",
+"tokenAmount": "4866741511271",
+"solAmount": "590733300",
+"maxSolCost": "622135438"
+},
+{
+"signature": "3C3Ji2nSSyjaHZRBKBAKtfbrDFU2o1SKhymMhVicsJ7NBGJ3idthDFD7sSpmmCYpB3HUyByCWfb37DWqzdmswERz",
+"vsPre": "81638735739",
+"vtPre": "394298133125054",
+"tokenAmount": "3726779243227",
+"solAmount": "778985819",
+"maxSolCost": "812436740"
+},
+{
+"signature": "5TaawbgkJk9GvNRzKXwFbF8BU8mUB1579Sj9UfhPMaE9jzceAAzXTyh4pAg3JY2Dz3riU5BKEQ2GbUCySnyND9Jd",
+"vsPre": "41544328564",
+"vtPre": "774835007105527",
+"tokenAmount": "7371180498919",
+"solAmount": "399016520",
+"maxSolCost": "410758126"
+},
+{
+"signature": "46K4tHgwNyM5yE5xHjURSEAr2qYssBFhs5dRt557CV6TzEkEicHnkLfahEWLY7bwkg6NvGfcvA4m75ie4C8pxf3N",
+"vsPre": "48510007316",
+"vtPre": "663574425013696",
+"tokenAmount": "6241541619377",
+"solAmount": "460614762",
+"maxSolCost": "485100073"
+},
+{
+"signature": "5yurHbmm5nsWHtSPJU52cYeYwfriaU993KpnAqh8cWVYSEXjzJsi8NiWzSUKKjqoX8eZuspiS2DuwgDwYmh3VnSJ",
+"vsPre": "34689600352",
+"vtPre": "927943814268297",
+"tokenAmount": "8728184378678",
+"solAmount": "329386510",
+"maxSolCost": "346896003"
+},
+{
+"signature": "2GA7opWV898FnwsEe6pAR6dwHm5gxdwvGfch72xb5RsfWfuk4PD1ZGcTpirEZ2h5CZCY8Rd8BWq9XuiRqiWe7ZNX",
+"vsPre": "62159316826",
+"vtPre": "517862836578263",
+"tokenAmount": "4870987074708",
+"solAmount": "590218401",
+"maxSolCost": "621593168"
+},
+{
+"signature": "3jPCL4GBCKdtwnTwLemBcb3Sy7XSTS3Q3VPPmzSwiEFdW9sv6EbcD88VJZSjXgvZhbfXS4NBcAohjP3tftoXNJ9h",
+"vsPre": "55717101941",
+"vtPre": "577740028282871",
+"tokenAmount": "5434188380878",
+"solAmount": "529047945",
+"maxSolCost": "557171019"
+},
+{
+"signature": "6XF8Uqzb9zBecA1cFyq7gfVJaYDmunQqk4h9FV38dhmQiwCCwspdXTTMd8jB5Kvy68CXa8q3MzP39mwTwDKnGpS",
+"vsPre": "48572017925",
+"vtPre": "662727255018480",
+"tokenAmount": "6340472340770",
+"solAmount": "469189119",
+"maxSolCost": "477531029"
+},
+{
+"signature": "4UfYK1xLZL7hzQREMaiFtnyoDXwpoFemgWwT6evtLcRdKjkhfoA2NSjCjjGxHNs6MNUJLE3BSbVz36uRhusuem7x",
+"vsPre": "51776754114",
+"vtPre": "621707581389190",
+"tokenAmount": "5847744575856",
+"solAmount": "491633348",
+"maxSolCost": "517767541"
+},
+{
+"signature": "6r7t2brWm1N1ZKsZx9kRrX7MAdqudebq2rgveMCRscVwPCEDmyJvzw7HMmn7uF32TaNxnAYUTjuQWuierSiPQQu",
+"vsPre": "100576612473",
+"vtPre": "320054526997620",
+"tokenAmount": "3010413865635",
+"solAmount": "955000318",
+"maxSolCost": "1005766124"
+},
+{
+"signature": "5vi3YnvLUrXb1oBAW3fb7wkgNRriLstdT7c42FoQ1LAjDUsdU8NYBuUTJDBL1bskR93ZaVMKiHEy6csZKnGJTd1v",
+"vsPre": "55691598273",
+"vtPre": "578004610355704",
+"tokenAmount": "5025202735632",
+"solAmount": "488432165",
+"maxSolCost": "602517448"
+},
+{
+"signature": "59Trkhk21CLNa2ShCyjnuh39Sxufjnt31GiA3YYMShPqgz7RhtqXFfH6LcqZZwKbmXW84iBN19vYQHB5aGQHJAxD",
+"vsPre": "55410875097",
+"vtPre": "580932913654261",
+"tokenAmount": "5473977393122",
+"solAmount": "527088657",
+"maxSolCost": "553121096"
+},
+{
+"signature": "psUiBDsbWD8UfC8Cih9QRKnwn6ZLzArYz72pSuPXxdBFYn5VkdwU8MtYR4g1YCe5JCxEBEY9VTCURpPp6gJniJz",
+"vsPre": "69460699066",
+"vtPre": "463427528857889",
+"tokenAmount": "4358971801987",
+"solAmount": "659546868",
+"maxSolCost": "694606990"
+},
+{
+"signature": "F7CdkhU1G7YyiX3oRU6MAH1mB1qeSCanzT6cctPL2u7dWP9geuyEQvcNSDJahLJZMugTxC1UrdFDujcNAt3KHdB",
+"vsPre": "51349755196",
+"vtPre": "626877390501840",
+"tokenAmount": "5896371483904",
+"solAmount": "487578885",
+"maxSolCost": "513497551"
+},
+{
+"signature": "2bsihhzSGsXaRjnMk99ceZMj7F3BpYU7qWZANYfjwbAQKmeZoeHe4HpzvE1LzTuPj7mhvifSLYav1FZEvjh48xcG",
+"vsPre": "47527838343",
+"vtPre": "677287274658894",
+"tokenAmount": "6370523864847",
+"solAmount": "451288820",
+"maxSolCost": "475278383"
+},
+{
+"signature": "FSM7CY4mo69piQhP3yFJiJ3oudZuNhAjYRcnVe5nuJ57s2ADsL2CS99sXxQGVwShvVc6eoX7ux5zmdoo6qhUxZE",
+"vsPre": "59662703542",
+"vtPre": "539533046251612",
+"tokenAmount": "5123833828333",
+"solAmount": "572036881",
+"maxSolCost": "590919298"
+},
+{
+"signature": "HisgjaKihesrNeeRGjf1RbYfb7i7aAGKEXesHSUp43Jp2SYxHxTKpTe8NNLfS1sKJYKZhmH7zn2mbc2vXAAkax9",
+"vsPre": "44710169976",
+"vtPre": "719970425254815",
+"tokenAmount": "6881166503518",
+"solAmount": "431444059",
+"maxSolCost": "440008577"
+},
+{
+"signature": "5ZjNKNWhhmfxyr5b9qNjFQJ6hsNpJSEh5hWZrBMBVLdRG3MJxHznAAWMMzwx9YcuxAnYi8KZc9vfnQ99RgrouKcs",
+"vsPre": "55163154155",
+"vtPre": "583541690245256",
+"tokenAmount": "5499284659105",
+"solAmount": "524802133",
+"maxSolCost": "550575663"
+},
+{
+"signature": "562tCQ94cVxjkGSB1pH3JsgUv1RqQeDmFEPUKfPr3MkfA56oueEHCgdc1frXeeAgkBuz1KRx1f9V2r5h2HjQTM5A",
+"vsPre": "51535102725",
+"vtPre": "624622807409239",
+"tokenAmount": "5909139064072",
+"solAmount": "492195509",
+"maxSolCost": "512388064"
+},
+{
+"signature": "5bUhbAnTByixKF4udsd8fBwk2Xd4SpZcPkUDXhyfrrGnYDyjFMJXocN29RBCZtcvwJ6jNgUBW7zj2J5jB44eiwEg",
+"vsPre": "55518897580",
+"vtPre": "579802598763432",
+"tokenAmount": "5453588792468",
+"solAmount": "527165944",
+"maxSolCost": "555188975"
+},
+{
+"signature": "5jX4ukuj5wEYTKMjjXyZ8ifweqphpNLSK2oavraG59kwnJHqadu7MHrFaPaHp4oqiiP64y5TstQ9cw6Ap1oVy4NP",
+"vsPre": "49694765489",
+"vtPre": "647754350445717",
+"tokenAmount": "6105023973347",
+"solAmount": "472824832",
+"maxSolCost": "495947654"
+},
+{
+"signature": "52cdr28HxtXJUcyQEfA9hMVwbfeC6ns5uSiB4ppPjiNo1hV8wx6ndbtCbtgTyHxExDQaZySiwDVVd3VgWswfBKkR",
+"vsPre": "41811753560",
+"vtPre": "769879216693773",
+"tokenAmount": "7241438166533",
+"solAmount": "397013152",
+"maxSolCost": "418117535"
+},
+{
+"signature": "2Styux5mkxbHJFmM1nVwL7CwHSNddg5XoRDeZaTZL9njWW6fseEvuAA7qWCp6sNAYxbe1J9SfsSY56axPwhkDsz6",
+"vsPre": "48499062820",
+"vtPre": "663724175063896",
+"tokenAmount": "6242950158943",
+"solAmount": "460510842",
+"maxSolCost": "484990628"
+},
+{
+"signature": "8tSB2jGg37TpwRhrbRwzRzLyhSD76qYbaDSzhrS5Zp7Q8Z4q437gWSBh5NPk7vo4S7vkXMCay6KRaCs6N6SySFe",
+"vsPre": "87272776487",
+"vtPre": "368843552632578",
+"tokenAmount": "3481139216779",
+"solAmount": "831526927",
+"maxSolCost": "869764801"
+},
+{
+"signature": "4X72ZzpH1RVYhAHxvphtCYLWb3ixTnP6AoYGmTwNT9RVeS5zmkSY34Dwx8wiiL5xBG6BgaGSJezgUjBvMMVaSS5i",
+"vsPre": "68289509580",
+"vtPre": "471375475432996",
+"tokenAmount": "4433729714275",
+"solAmount": "648426128",
+"maxSolCost": "682895095"
+},
+{
+"signature": "4RXPEhdy9c4TsMsn2LN7q6M8TsJSjGxYHg8Ney4Xv4qLQQfKmvgJuvuhMqQPE24e7jVCXdqHYYFxFUACUxgdeUoZ",
+"vsPre": "52191579158",
+"vtPre": "616766176557358",
+"tokenAmount": "5801266010740",
+"solAmount": "495572216",
+"maxSolCost": "521915791"
+},
+{
+"signature": "2EWAqXCJjx9dQ89crdvzUqag5GMNLoGfenjbsHrjrvpb5iFXu1TAPr7Bww1m69wPvvse1D7FpejJRmMUspSX6rvN",
+"vsPre": "46907238564",
+"vtPre": "686248038196764",
+"tokenAmount": "6454808271348",
+"solAmount": "445396068",
+"maxSolCost": "469072385"
+},
+{
+"signature": "337v9PAmLP89yQzGsiQKysxupv7UuT7kZLfghuLoZxZDqVCnnWs5jk5PFpmesrhTfD6pXkBBzs4dRSxmhYrQcZht",
+"vsPre": "68761083795",
+"vtPre": "468142724038959",
+"tokenAmount": "4403322645827",
+"solAmount": "652903844",
+"maxSolCost": "687610837"
+},
+{
+"signature": "2sDYfjmXmsujQYiVxF3zopa7j44dFwpXUb6fQgTCTjrw8UYW2AqRCrpr6w27PjNdbmiLqc2Y2yw7nk7oi4mQFXe9",
+"vsPre": "56956840176",
+"vtPre": "565164791814128",
+"tokenAmount": "5355301126152",
+"solAmount": "544865773",
+"maxSolCost": "565378541"
+},
+{
+"signature": "4uVhYeAQaKXnE4bEXCSfWj7o5cxLXHHvM6ES5nKmHhxpX9LJpbLY2YryqhdMwDBuDMjwg82pNKwXokgsLCpoy8Hq",
+"vsPre": "52271153458",
+"vtPre": "615827247024239",
+"tokenAmount": "5792434495348",
+"solAmount": "496327794",
+"maxSolCost": "522711534"
+},
+{
+"signature": "62fhM8daAGoLEQGYkJnYzUs2VY56ySj9o2gJr8Xnzmm3ACxpmeBxv8MmZMPjB7jV7yTgk4d2FAzHtq7fiS8Y71Y1",
+"vsPre": "42038821939",
+"vtPre": "765720796074988",
+"tokenAmount": "7202324312901",
+"solAmount": "399169224",
+"maxSolCost": "420388219"
+},
+{
+"signature": "5tGxgx5e8JVVNEyS23S8ccrrW7kAkCU39gWS8S7xskn9KDctPng2wkHuEBrjAo2PST1HKawF1F7BEPZq6QPRPxFm",
+"vsPre": "53436902390",
+"vtPre": "602392709496255",
+"tokenAmount": "5666070030367",
+"solAmount": "507396874",
+"maxSolCost": "534369023"
+},
+{
+"signature": "2YX3DP5EBaYbvTpn95iPiwK2Ft8oX1BhqQstDdjDM87Boy5WMeNN7vnCkkzJcCKpnNTzHs7eYZtSc5WokMCjmCRe",
+"vsPre": "39840092466",
+"vtPre": "807980075814394",
+"tokenAmount": "7695196329994",
+"solAmount": "383085251",
+"maxSolCost": "393462653"
+},
+{
+"signature": "2QodYZ3aDqeKwBdwUjL9ypSvH3LHPQNGVc769b7mCKRCVTxJwoCi4oYhsDQir6bx4dgWniWizKqg7wTJTCg3BgpW",
+"vsPre": "48276456183",
+"vtPre": "666784658975523",
+"tokenAmount": "6271736880677",
+"solAmount": "458397135",
+"maxSolCost": "482764561"
+},
+{
+"signature": "5611ukasY9Jp9WpvMXUYpYb4AQ3nsqoBsNGs8o6fhUfBUKzWAnwfh12GVrDKScB8oKJAsQsd7GWMu2fjouQZ1rDA",
+"vsPre": "48965406828",
+"vtPre": "657402901451128",
+"tokenAmount": "6299556636335",
+"solAmount": "473750222",
+"maxSolCost": "480632606"
+},
+{
+"signature": "5dbfpPXk4MQ17FrrzfHAAqd5BR97A9RojNBTjNqtnXsAC2Cq8G5a3VMz8KR5Tb8CCVdHyHfMDyp1TnhhHVYnNPsc",
+"vsPre": "44779901983",
+"vtPre": "718849277686916",
+"tokenAmount": "6791411533589",
+"solAmount": "427098355",
+"maxSolCost": "445823711"
+},
+{
+"signature": "3pnrzUY8ULo2WXi6CLtEw3LbKEJpJk1HheuEovFUYbNp8K2xn8cWVNSiKjg6ZS5gKgfmkNCxRPMnt91TJcESV1pH",
+"vsPre": "59355793133",
+"vtPre": "542322807059824",
+"tokenAmount": "5126643015951",
+"solAmount": "566452225",
+"maxSolCost": "590595502"
+},
+{
+"signature": "5iM6MfapGtunaVGxs4LUUijgUquQjSEb2Lo53rCkFNPc31pPE6b4dEPmmEd1vtGnSCsrMnLy3SQqsn16bD6XMcEE",
+"vsPre": "59617018688",
+"vtPre": "539946495972251",
+"tokenAmount": "5078704657662",
+"solAmount": "566078638",
+"maxSolCost": "596170186"
+},
+{
+"signature": "4s9apAj7sGvCgC9UJ8a2dgGZdWUs7Vxq7qMkF5XL7hXsjeEDyaAupCgxBjzeMFwEdr1Q9aBNZVz92dMTqEFock3t",
+"vsPre": "43880733472",
+"vtPre": "733579353998726",
+"tokenAmount": "6859970079862",
+"solAmount": "414218371",
+"maxSolCost": "441368147"
+},
+{
+"signature": "2tfB4XLpEZWacixPLFCJWCcWoNTcP82XfoVLACUKLfbgZLUCPEtdChVHVRsm8iWxPDLt2cVsqPYpcyGr1icZyaBz",
+"vsPre": "43660085243",
+"vtPre": "737286696606917",
+"tokenAmount": "6934874862312",
+"solAmount": "414563528",
+"maxSolCost": "436600852"
+},
+{
+"signature": "5921pzgUtjU9CAuwraAekFyhvc57SBunmPWkP2GEMXYDHQWr4AEAiz8sH6ZFQJ9hsDyRGVAbBRCzCEEyeR4FRvew",
+"vsPre": "58313232607",
+"vtPre": "552018793211595",
+"tokenAmount": "5229993346581",
+"solAmount": "557761642",
+"maxSolCost": "578924694"
+},
+{
+"signature": "58SiyViXrdL3TV2CdsVY1TbbF2R4Gf7spp12rKbgbamyJNdbEWJnnJsTX7tgbJUDn6ePn9fMWFpc81GfE2dXp1sx",
+"vsPre": "51378355726",
+"vtPre": "626528428426669",
+"tokenAmount": "5893089175317",
+"solAmount": "487850454",
+"maxSolCost": "513783557"
+},
+{
+"signature": "5bUEbqqjQk5XfMEb5uPMrBBup6jCwozw1EmTjoARBq3oevMpg3FJBQuiUTVn4LFWtYGARXKA1diAujswoksgAHE5",
+"vsPre": "34497722737",
+"vtPre": "933105071596218",
+"tokenAmount": "8776730862129",
+"solAmount": "327564584",
+"maxSolCost": "344977227"
+},
+{
+"signature": "3WaHHWAmn98YPp5CKyqdBqqzvzBtsgkQCBus5oLBW399gMBh8aaef8oYBphCAZzs6yEYGcvHe3iQHPWjechdDwAA",
+"vsPre": "46404378801",
+"vtPre": "693684547461016",
+"tokenAmount": "6524755644295",
+"solAmount": "440621288",
+"maxSolCost": "464043788"
+},
+{
+"signature": "3eoqcABcoCc9bZvAMSM2gj9agXttDZJwd7bAM1HCothGdBizPPkporL1QWbASJgfeXjBRUj9zGfULSQ32mBr9VTW",
+"vsPre": "39789881462",
+"vtPre": "808999656057082",
+"tokenAmount": "7609402693747",
+"solAmount": "377814966",
+"maxSolCost": "397898814"
+},
+{
+"signature": "39YBiB8nsZisfLMwomYjrw9dtwdgHf4eGBNeM77WWdTpeiWwtqrEvgozsBkXJaJGAozBMwdRF6BpbF9J5hDNbBxG",
+"vsPre": "79907490144",
+"vtPre": "402840838043074",
+"tokenAmount": "3789096989427",
+"solAmount": "758741786",
+"maxSolCost": "799074901"
+},
+{
+"signature": "22sFUgk4KWWX4ivcVVhHKsNUQRsF96KLc9USjrf7cqktzGHYDTbtnDhEiCUmtANhSgDMUZgK2EQdKViUU8BAhhYR",
+"vsPre": "38053665881",
+"vtPre": "845910618627516",
+"tokenAmount": "8061196167988",
+"solAmount": "366125533",
+"maxSolCost": "375598387"
+},
+{
+"signature": "3cSMHUUQ7NV33vkvbViC4ButFhM9YsKdmnpKMNz5MXiYrhAqTT3TEs1GQ3hPy3EB59ZAPkt1XpR7vy2KgopGZM9N",
+"vsPre": "69128506510",
+"vtPre": "465654502140928",
+"tokenAmount": "4351306771186",
+"solAmount": "652064286",
+"maxSolCost": "695830576"
+},
+{
+"signature": "4Esqj1d4RhgAyU74i1diqbb7t8WZWpc2b7wD1gRbD79vzE47fTYY4mDcZUrQNnyjFtqFbBqQwAoY4QirAnKujDCF",
+"vsPre": "40232235784",
+"vtPre": "800104686693592",
+"tokenAmount": "7525737136510",
+"solAmount": "382015232",
+"maxSolCost": "402322357"
+}
+],
+"sells": [
+{
+"signature": "63XS2wsvFxZDnfAj1fdLUnkCNpeWC1xvPx9Tx6qNhT2EZa4P3aMmT473fpQscp1ZWYSiU6GL2ZfF4V55YRzhWWpk",
+"vsPre": "51659166304",
+"vtPre": "623122734104745",
+"tokenAmount": "5892889058205",
+"solAmount": "483965301"
+},
+{
+"signature": "393cp5bu4dgGfG3Tj4Qm42DdYUFztEDBGVfp41xRYKbeumknXNXv9PUUoh8iLCTtVrzBrRkG1b6e3RCjx7BqH8Ut",
+"vsPre": "31403390197",
+"vtPre": "1025048565251140",
+"tokenAmount": "6745835812669",
+"solAmount": "205314269"
+},
+{
+"signature": "2Zis9ZAPJxMeVSy88rSRCN3FPA1Emcc4mSMBv42Aoryx5E2W1Zd72qwSP38t8XX48DW4Fj5eEgSrGiWw8c9Z53Ne",
+"vsPre": "37117876804",
+"vtPre": "867237117282394",
+"tokenAmount": "6860411297677",
+"solAmount": "291322069"
+},
+{
+"signature": "HmNkESmwcJ8jGJ5wUzgD14KTR6HBZv42MzXtPBR8DVU82sx6u96Qo3WckvX8WVmaiq2Y37s6vMrQaSTRpVMiRbA",
+"vsPre": "48602846707",
+"vtPre": "662306889280005",
+"tokenAmount": "6241541619377",
+"solAmount": "453754248"
+},
+{
+"signature": "ptP9C6euYnxjmEWgeRBXWMhGnfd6SCs3DHCaizpAUa4nkThRU2YVbiBtTyfG83xrvngRbmJ3oRQBcCDLgjjikG9",
+"vsPre": "59700544311",
+"vtPre": "539191080973516",
+"tokenAmount": "4889440033708",
+"solAmount": "536505572"
+},
+{
+"signature": "2zxFZnrvVcvSq5n3rCyH3DpA48JoChve969GuRceq5ZujUkvmhYVpLMjqkDhPWfqKM6SCDEnfgVn2oqPNu9zaEm2",
+"vsPre": "51205103082",
+"vtPre": "628648298801729",
+"tokenAmount": "6148465177448",
+"solAmount": "495958409"
+},
+{
+"signature": "4wWDzUGdW5ENCT7RxEuD3fwuxYVmMxoXjgb2z75ub1w3mfWN9PC13dE2KHDy4pQsDaDRLRyGJXpdxMYE1BbeRJ4b",
+"vsPre": "42577529866",
+"vtPre": "756032596816969",
+"tokenAmount": "7074797679066",
+"solAmount": "394737898"
+},
+{
+"signature": "64mG2em9pLAFFPo2MNXHjodKJADB9UHT6yA9Mm2FTYkfLbJBWapgk9LgR8uieRBZviWFo9MnKWrm51J4gbqFmZSd",
+"vsPre": "44660465658",
+"vtPre": "720771731969678",
+"tokenAmount": "6437478063885",
+"solAmount": "395348084"
+},
+{
+"signature": "3mkDrJe6GWNznnW9WJKRBYJSf9btQJ1LsafFUka9fMUusHjUZyXPc2jAq2czRumWmX5hWS4WqQJnegRbiFjYPtZ4",
+"vsPre": "59170014964",
+"vtPre": "544025568299299",
+"tokenAmount": "4902419279622",
+"solAmount": "528441305"
+},
+{
+"signature": "3DRYQL6PYbEioSu3Y9pCMBAi3PAR9X5fYbmXiNddws9yHA8GyyD9RgDNJNK1eaUPDyrRsBkFh8YbP5BTXEZSdwEL",
+"vsPre": "82504561097",
+"vtPre": "390160261323910",
+"tokenAmount": "3726779243227",
+"solAmount": "780620467"
+},
+{
+"signature": "3fqja4xyFgp2ZQA4xAL5N4ZAJkCDa57KKgL4ENARFgJEDSoAdqM6KyAEMbZozihL6Jx4fbBdXda7DJVX413XpB8N",
+"vsPre": "33688679521",
+"vtPre": "955513856189010",
+"tokenAmount": "8397363799916",
+"solAmount": "293487711"
+},
+{
+"signature": "4eeWeFA8SbcEjvGBTRHHrU59zbNd6gj7ATbB53RqgCEkGWkP3e8JS1aRJ9nGKHV6MzQ2AvSdV3mynsmoTQfCEhF8",
+"vsPre": "42451861324",
+"vtPre": "758270649395034",
+"tokenAmount": "7192688353263",
+"solAmount": "398899585"
+},
+{
+"signature": "VrxZQtyGaDXR2tKR4Lzg3RpTxUZfrTZ2wDznWumqEEBVhA953GgzrrMLQpscNc3H4TTXW1PgsYMwBFnQR8i54eq",
+"vsPre": "47324337516",
+"vtPre": "680199716002618",
+"tokenAmount": "6831600273209",
+"solAmount": "470576740"
+},
+{
+"signature": "2PZY81xaTZxwMj64FWpdjx1hGQHouxc3tgCBDYtHQDrhZ4dmaFdna37w3hV2SdkukViEHjsYeRKRJu1Cr5RyHNoi",
+"vsPre": "41105696329",
+"vtPre": "783103153891453",
+"tokenAmount": "7526207539082",
+"solAmount": "391295867"
+},
+{
+"signature": "3d1fH36uBztBq8o2U5ejSanra8Nf3it9WcVaT2f5rUTiCs6XuRZbKEzVAYvvdrVBzNNfrprfsokrcyZazG4JYaFi",
+"vsPre": "102812206724",
+"vtPre": "313095126054643",
+"tokenAmount": "2967523739376",
+"solAmount": "965307556"
+},
+{
+"signature": "2RMv3hLzA5pGZwVwF7zSiEGYHiKhMuP6y1KgdxmDHMncuhEBMxwjmaAqAtXuDjZHHngjJb5fed2Ke27pM6pTpHKZ",
+"vsPre": "44326693809",
+"vtPre": "726199004892035",
+"tokenAmount": "6847286285854",
+"solAmount": "414049653"
+},
+{
+"signature": "hjyh9e5XrShpRFbNBktBPbt4bScS4zUWdcmEQzR4BjccEiAnrW47uNEthtqV9R4QHWoHnDrcXdjvtzqs5N9U5xp",
+"vsPre": "48605260897",
+"vtPre": "662273990456511",
+"tokenAmount": "6156978321260",
+"solAmount": "447707469"
+},
+{
+"signature": "57VndJe6SzHBabWhnFwzLVf38CcE5pWHjwRyxYR8mdnvksjExSLt4pgJ3kfVh16WYGUeFBox3zWFQTwYZA7cwuzh",
+"vsPre": "34266259156",
+"vtPre": "939408059061576",
+"tokenAmount": "8892259043238",
+"solAmount": "321316408"
+},
+{
+"signature": "5JF2HMQPaPoTk6pYfcezuSVuaarX3rne6cHqZgVeiJcn78mHdu2yULSdtQeeTQkvp1DQTAhaPxg9MwQcbHDc4fec",
+"vsPre": "38627440441",
+"vtPre": "833345415709528",
+"tokenAmount": "8312693056967",
+"solAmount": "381506519"
+},
+{
+"signature": "5vG7ZSnFf47Kv9D28YWjZJrfaYHcPPwV2oCf9f5otFNjmTCoyDBHE7reS8XNS4Kc72pL24LRgYKtM3Tm1CZQdbiX",
+"vsPre": "51940841054",
+"vtPre": "619743541102862",
+"tokenAmount": "6059454050829",
+"solAmount": "502926867"
+},
+{
+"signature": "491YZRMEn8WGK6oXfXxY8UHtF98B5xW6tFwfKWi7d3amyYMNgQqrQqrLJ2CNwZtiNY2vqJjB6ZQFNKhjv6uQPoo9",
+"vsPre": "35698600160",
+"vtPre": "901716031877507",
+"tokenAmount": "8732736581921",
+"solAmount": "342409680"
+},
+{
+"signature": "2idDBi8RVp53BRPef8ujSQSFhjS24cswaDfe9GPcTWGGBkRyHsNbBW5SFPJHVbhKr3NF6qAL37tvJVnpwKqspy68",
+"vsPre": "103441275481",
+"vtPre": "311191066301191",
+"tokenAmount": "3234402187655",
+"solAmount": "1064069934"
+},
+{
+"signature": "5XjofWwDbmGdbKx2nuF6pNLQpN5FkwimoHhTbVVMZKbtwmwmNfACZuNVeQPz8GN1hKMXafDsy91eo1BZx62GSAM6",
+"vsPre": "35782914884",
+"vtPre": "899591331902359",
+"tokenAmount": "6942977531760",
+"solAmount": "274054684"
+},
+{
+"signature": "2ub6XSvsmgFE8gSVZfPtYnVHB1fNnGcq2aBhA1VLh8mN9gD12aQEp1ikjbBLzudeXa2HTxwkv1GnuYtg54beuk3V",
+"vsPre": "35847177444",
+"vtPre": "897978651173942",
+"tokenAmount": "8256801507306",
+"solAmount": "326607205"
+},
+{
+"signature": "2YK5NBNtJWxjnUJRAG382UUPxDxctu5fHsaYJN6rDnjqtkUQ8XbuAEEcm21XPDuVRATz86NEmModHVgF21D7mLPR",
+"vsPre": "38572134401",
+"vtPre": "834540293749404",
+"tokenAmount": "8141398986310",
+"solAmount": "372656886"
+},
+{
+"signature": "3P3UAsnWXADZSDDNbRF4FMCzAmFQ8CYPqjC9sz4HSt8hLKtS7JaiaZmQpKnChp2tv6rFTXH77Aa7oM9T1JMPtE5r",
+"vsPre": "44795129838",
+"vtPre": "718604922991836",
+"tokenAmount": "7111631784373",
+"solAmount": "438968171"
+},
+{
+"signature": "41iJMFs3wCsrcCLxRu4HZEmDCsYyCnaVAbBe6r8oA8gbnCNGagRToVT82bjLZqhW7o3RiMB4C5AJG474twW3Qbe8",
+"vsPre": "62435716300",
+"vtPre": "515570293182333",
+"tokenAmount": "4811389701039",
+"solAmount": "577273513"
+},
+{
+"signature": "2NiyHjbJQkV2SarX2JzYwDjF5p4gRCQ5tFDVXBdBUET8SDXXr2mN752ZEUJTjKz6AAqx4unxR7G5vDNoKnh72b2w",
+"vsPre": "40739260738",
+"vtPre": "790146908726064",
+"tokenAmount": "7695196329994",
+"solAmount": "392930640"
+},
+{
+"signature": "3SZkSnwSyeia7io2rAgimBoLwruyeJ8sYLLNHukdmDQ9SMxQDV8bqzHogmvf7mxVKuocwkuaq8L1k4o8ETZ8i5aj",
+"vsPre": "39959911392",
+"vtPre": "805557346539493",
+"tokenAmount": "7761428153817",
+"solAmount": "381333852"
+},
+{
+"signature": "3wa7RoHV5c1KqEdcY5Y5rcdmA8KqpJJp2PkKtj9MaA7ATJh5JgL7gudzHxks2oX5xSERcTrUCtPAEtnYziPbtfmW",
+"vsPre": "41059829275",
+"vtPre": "783977935265956",
+"tokenAmount": "6500674522707",
+"solAmount": "337664527"
+},
+{
+"signature": "36p3PnxKrLyTYpZ5HTawsNhxYAk13dU5dWXPhAahkDdCn7GByPbJa8ttGjGrXufTkh9ej9hLhVA34GQ11mt9vi8A",
+"vsPre": "41366917979",
+"vtPre": "778158052860862",
+"tokenAmount": "7021691009201",
+"solAmount": "369935315"
+},
+{
+"signature": "4Bgsfa4e2DQVRR1EDq5Mji4bELzgnoNFqbnpdr9mAWSczNDq8u4ia52h4or8TSto2YeDLUuFqo7qoHFtAGP8FZc1",
+"vsPre": "35113199191",
+"vtPre": "916749287202029",
+"tokenAmount": "7954615520381",
+"solAmount": "302055607"
+},
+{
+"signature": "42QGGGZ1YbzqjjCeayQFcAnStr8v96bCPWG8aiNFctGBCx95MEPSw9o1ByHGSisWoJiyXhNP34qYybUcG73epbdu",
+"vsPre": "46056600009",
+"vtPre": "698922633547273",
+"tokenAmount": "6493367587929",
+"solAmount": "423951871"
+},
+{
+"signature": "52dSRj1pkh14E56QAicBbgdivG3gn87XfvM22CFCZi6T3GD61QGrvvNBdbzZueYK2hqBgSfmbQXQS252VNNZLMSw",
+"vsPre": "52570781343",
+"vtPre": "612317326801064",
+"tokenAmount": "5229993346581",
+"solAmount": "445220678"
+},
+{
+"signature": "2eEV6FP7S7yfaN3zGDUuuvBRiGzGSSvyimwMseJSkaN5m7s42sapYDbN9PK2rBgeKeRNSyhD6stdLR9Zzb8oa8xg",
+"vsPre": "39888209357",
+"vtPre": "807005410937336",
+"tokenAmount": "7261779098193",
+"solAmount": "355730119"
+},
+{
+"signature": "64rkhhYcnwKHSyeRkmmWC1uiJCgrSDMc9RpXurAMCKrtXVJrUf3uJRNe78YoRfcpYMS9n5aAtt5mhwT6V9G1DGHG",
+"vsPre": "44029993626",
+"vtPre": "731092549805224",
+"tokenAmount": "7435541353759",
+"solAmount": "443296392"
+},
+{
+"signature": "2cy4Kdk2ABKzVTmd2Mebq5omJkHaRXXa5B9o9eDr8XegbHvQoKUhUWmswpdQmW3VPXsR2wifrEi7DQuuUvxee37n",
+"vsPre": "36833553422",
+"vtPre": "873931433373074",
+"tokenAmount": "7324992071232",
+"solAmount": "306160022"
+},
+{
+"signature": "5tGpqsH7BxeezMnPPBg1qrF8mQhdwM5Ho7SPcUeSxC32tdSzzmaxxw1BjvzcaeRrMtWNmpP8b45n8UC7gCTNcRV7",
+"vsPre": "90404151374",
+"vtPre": "356067727966189",
+"tokenAmount": "3272146264305",
+"solAmount": "823219540"
+},
+{
+"signature": "2KXFbgpFud6iCk9EZ6iavCZ9drCCtufvK5n4bCWFrRtGTg1KNgD9v9KYXcMXVby8UgeTfsTFWkAqeiY9Jrr2Be4g",
+"vsPre": "45524039015",
+"vtPre": "707098951703584",
+"tokenAmount": "7113732679902",
+"solAmount": "453430541"
+},
+{
+"signature": "4ZXGz1C6it9PEGHme1LdXJx2gpevvos3hvpMWqF2jXnrk3Q3v3zvNE6kdU1SPKKuyFatvjj3VZ2eu8YMAjCvfWND",
+"vsPre": "53231843101",
+"vtPre": "604713236151142",
+"tokenAmount": "5685414364055",
+"solAmount": "495815456"
+},
+{
+"signature": "8yGJAz5wv8bwSkQSWGKz3uXxFmjafbwSqdzMtHLhThhRjSEv34iBzZkbcjH7k5QBjnCPSaNoamv4Eoz7nUN9zL9",
+"vsPre": "91975070550",
+"vtPre": "349986149259194",
+"tokenAmount": "3846071267698",
+"solAmount": "999746929"
+},
+{
+"signature": "5BFUpFekThHoBQex7uEkwQ2meJAtwPqYZ3NogiWjAUwTruEAahumjHwih8dhQUbFWx3J5Wo1CA96Qj2Bj5ZKf4sw",
+"vsPre": "44098206783",
+"vtPre": "729961660585668",
+"tokenAmount": "6880257318001",
+"solAmount": "411766761"
+},
+{
+"signature": "Zz255LafYP4qVQggsQeBheCh6q2R9F6SFafzYAeDZ5pvH3QMGKs7jvmV4m3edMdaE5sKHbyHbrdqKe3qGUVE7k3",
+"vsPre": "54163214425",
+"vtPre": "594314802827915",
+"tokenAmount": "5770722862188",
+"solAmount": "520860588"
+},
+{
+"signature": "JYuzXGw9TXRS59txQvtkt3eWjgV1EzuWGCJTWb3Z6Dk6chQhqJ26dhQMBK2GEBMa2TBaKJi2sZJeS4aN5AqQzhw",
+"vsPre": "42450178276",
+"vtPre": "758300720519897",
+"tokenAmount": "7135003523046",
+"solAmount": "395699027"
+},
+{
+"signature": "5ksn8DWXyXwwZa1xdnmyXUWZihTd2FfLunwyq5EHHXZjH5rg6WwPtkZbrT2K6Ttb2TANucVHzB4PWbkUeByYKYJH",
+"vsPre": "37499550831",
+"vtPre": "858410282628828",
+"tokenAmount": "8047906706094",
+"solAmount": "348306346"
+},
+{
+"signature": "31kL8BZfgHfw9WhwE1cKZtbxPUG2EWCBVR66KMdJQ6nmETxfCJZayQcBwCr8N8RuEGDgHzSUTFCyKsqPRFboapp1",
+"vsPre": "68907800342",
+"vtPre": "467145959992137",
+"tokenAmount": "5615484060145",
+"solAmount": "818490296"
+},
+{
+"signature": "5aHooSD6XEniTNRrGKSAPUjShmNdrgqBu88V8LevWXF5pvNUmHAKGYsPiwWyzi3WaCL1qLWt8CwQsf2bWWuuqCLv",
+"vsPre": "51499608699",
+"vtPre": "625053296910352",
+"tokenAmount": "6191838797067",
+"solAmount": "505156011"
+},
+{
+"signature": "2XvZZuFcpSALCUhJSG1kiGLHmii97uARFzB5qotKm1y8zGBq8kBDs5D2SiGJ8rQp9rEwukf7mxfs6zZLkKnqCLGa",
+"vsPre": "50808840822",
+"vtPre": "633551160860443",
+"tokenAmount": "5145555960582",
+"solAmount": "409333141"
+},
+{
+"signature": "2i3mqxkTfw8s7Rzg8jJwx5meXDTjap1gqTZ6GD3vs9FW8TonYdEp21f1QDsRBDqVR2RDUjPT1dVHUiDHtkdYx84K",
+"vsPre": "66624373229",
+"vtPre": "483156530341761",
+"tokenAmount": "4534146911741",
+"solAmount": "619418640"
+},
+{
+"signature": "5iF2aYfxuS5thSs3jLFfQD2GCuKPt4AvKKeq3i85XxF7ajCqDp8QDvophyS9TD2XE1YTf8eKidZs8gPuMLf5yMy1",
+"vsPre": "37774048668",
+"vtPre": "852172356503948",
+"tokenAmount": "7835966439480",
+"solAmount": "344178271"
+},
+{
+"signature": "29Aj3WGpxJTFWhogTmz7GTn5HwjrCv1B4SPng5eu59Pv7R3yM5xjgwTwFJ7hFpRd6f7jwPcBzNfbyDgMV3CuiCsW",
+"vsPre": "54236720400",
+"vtPre": "593509340963777",
+"tokenAmount": "5845386531377",
+"solAmount": "528959863"
+},
+{
+"signature": "BWk7zsVJdWwQtqRdH6e23GbScP4EfYktbDh7ua9VXLmHUWX31GPTaBpHysPEQrmRGN6rYHrz9aj4MLR8mxDK5Jt",
+"vsPre": "88195472269",
+"vtPre": "364984733435815",
+"tokenAmount": "3537749227163",
+"solAmount": "846660593"
+},
+{
+"signature": "2UjpmRG5Ryph9HDquydFQXmioFANpSs1ugCgS52TudTnV2Px3wTeptjqpfp8Y9rita1j6dJtMaDoCBuB4LLK12xi",
+"vsPre": "54282451515",
+"vtPre": "593009329000402",
+"tokenAmount": "5576807923514",
+"solAmount": "505729730"
+},
+{
+"signature": "29DrcgzSiGU5bqM9V81tdYQ6YkhkvmBruAn3hmhvvzxvfh2G8dAZNYLvVgRud6cvXjqEaY3weLZfuYxMrizC6q7J",
+"vsPre": "35758309757",
+"vtPre": "900210335904268",
+"tokenAmount": "8271148272974",
+"solAmount": "325556752"
+},
+{
+"signature": "2629iJNXgTvN6KUrdiNLEawUhanopQhc27bMiEMoqVXKhZXZLVKYfzTsMh71ntPkG8MpBGDhNkBLBiD1YrSVa8pb",
+"vsPre": "54589739154",
+"vtPre": "589671257551950",
+"tokenAmount": "5880322152394",
+"solAmount": "539004955"
+},
+{
+"signature": "5L6Fsh9imUiyWwuthA5j52x3inCUPDFs8zh6tkGa5NXib7tzzPt6AaLo1QyR2Dv1vxS4puzz66HbxJDJAPgffZHz",
+"vsPre": "39931794376",
+"vtPre": "806124556825322",
+"tokenAmount": "7668779424156",
+"solAmount": "376297162"
+},
+{
+"signature": "kQwLYphA8EHmENSt5tUEdvmqrXNCUbqdfK866eX77kBGg7Wub2MEAvdRHBiZDr5c8RXpkjSZt5AMTMFXL6dcWsB",
+"vsPre": "41010729084",
+"vtPre": "784916568762988",
+"tokenAmount": "6382342870264",
+"solAmount": "330778332"
+},
+{
+"signature": "4S7LB9db8oYeSMxZ4QBM8QiuTDPL5UboZRi9RqpMYqZbF1cbij3BPpqJ7EUc8eRZ3HADfp78c4eGZrdn52mDGajG",
+"vsPre": "43868734673",
+"vtPre": "733779998343698",
+"tokenAmount": "6920938147781",
+"solAmount": "409899305"
+},
+{
+"signature": "67HqumPmQ6dXXR4F7wGMsGT1sJNcnkt9EBf4PjSKc7drcnnzcvysBCFRsTZWgUaVbNG2qfhUxUqbBb5aAomnmmMS",
+"vsPre": "51357536946",
+"vtPre": "626782404373555",
+"tokenAmount": "6537204075108",
+"solAmount": "530118908"
+},
+{
+"signature": "5WRd47TXbY2PPS4bT7P6WjPcB43gjkCuVurFRvh339VZX6DpSkvU69ts5Fo99ThPEaNPBPz6t2W1HNLNCZVxz4ht",
+"vsPre": "50044064657",
+"vtPre": "643233137676595",
+"tokenAmount": "6250848140403",
+"solAmount": "481640587"
+},
+{
+"signature": "4sBc4KQ8xXkV2CGDw8WgiBLz1HKBfVgt2CfiKNEznAu4LLD7Ft7dvQ2nppfvb472QiSaWgLwu8CPUqZBuNXmnQXx",
+"vsPre": "36657996749",
+"vtPre": "878116733545838",
+"tokenAmount": "8321388648402",
+"solAmount": "344124908"
+},
+{
+"signature": "4fdGTbyAGpspfVEACuRYpiTj4Pgsu6CvDVbuDkj5qbBEAmLy4r9S7dU7fwvrA4tNZC8xD17XpreunYv6pjypuutW",
+"vsPre": "42227837743",
+"vtPre": "762293353822158",
+"tokenAmount": "8146804042971",
+"solAmount": "446526463"
+},
+{
+"signature": "5N2zTdK4HWYCQtgRKSm7UKuHdeBGVeyQF9ZbEt6ncbwVcYRSmWQoQornT23bmNidGLET4Wgrm3JUp68GEeocbhe8",
+"vsPre": "42186167077",
+"vtPre": "763046348236485",
+"tokenAmount": "7407577776641",
+"solAmount": "405601559"
+},
+{
+"signature": "2QMfLvx15Q8j5G1aZN2gt1ePNYEFKqxWbSEmohHJAnnoxyWSWJj21YCgxX368Lh7rdF87NUwLN2AHXAMn8BQduPk",
+"vsPre": "35764524318",
+"vtPre": "900053926038546",
+"tokenAmount": "8131998235435",
+"solAmount": "320239546"
+},
+{
+"signature": "2tYdHWfkUg2osCKXmLLUg16mJVpeUCrjEBE84kGaCtoPWXPhMdCTRLoyzXWuUt8tdB1caVSNfVbs6B9JwkTQ5DdT",
+"vsPre": "41784551071",
+"vtPre": "770380437029300",
+"tokenAmount": "6961512092205",
+"solAmount": "374202959"
+},
+{
+"signature": "3hUWorw3VH4Z2wGLrVstzEJ3cVL2YnrczadzEDwL3dttZeqJWUEGFwEzYiyUxJbPZ9GkMXaMNU7yb1GVAV6bgfHz",
+"vsPre": "44565426451",
+"vtPre": "722308822661454",
+"tokenAmount": "6353329674844",
+"solAmount": "388573559"
+},
+{
+"signature": "3o47rKvCWzEU5H5VZLPVUpG4a8Tcd2bJojBmFDs4ZBrAjsMEhuwHdQ2u4LLc5Ax3MA3MsCnshpYrQkFZEhBy8jSb",
+"vsPre": "48082958031",
+"vtPre": "669467972167440",
+"tokenAmount": "6292715274590",
+"solAmount": "447750764"
+},
+{
+"signature": "5RmTirNobd7NhJaED3SFD7fZ4QpjVUiircT2b6uVH9MbsmW5yfa7ZgbQYkYaHAXxrnoE1ei5VGw2ozT4cjLnbeNB",
+"vsPre": "36316893131",
+"vtPre": "886364381783479",
+"tokenAmount": "7988228737493",
+"solAmount": "324377260"
+},
+{
+"signature": "3tvbdKDr2MPM25a5sHnvYMtWqaFoe4tTqMyBX5y4g32G8whYGN3ZpdwE5DUJy66F1GU4snC3k1WUntZ74ZLaYZdL",
+"vsPre": "42283379872",
+"vtPre": "761292032981688",
+"tokenAmount": "6280720848160",
+"solAmount": "345986884"
+},
+{
+"signature": "5vVQ89TeryXJAuQq9613iAED575XwnBRHsQHRKdc7CERxZFfxrVn2i3EYMFP6LwhzF8UzySzw2DbZLJF6DJ3tyE4",
+"vsPre": "51955397291",
+"vtPre": "619569908408746",
+"tokenAmount": "5801266010740",
+"solAmount": "481965099"
+},
+{
+"signature": "2oX2yKCu1eaVXm719TTgP3f9ixyg7fweMvjWprfAPMr2xN3B4R5P4FcYzeUKZwK2iewmdepfghfTRrYyo9UtmnyQ",
+"vsPre": "40936443974",
+"vtPre": "786340910904073",
+"tokenAmount": "7466365543196",
+"solAmount": "385038615"
+},
+{
+"signature": "3dZPUa3w5wGci3SmtwMqRQSGqWqsipvCcaE1g3bP86CPzoKp7ZBi1a1b7hniimHiwnTQ9cPnSy5McMfFF9mGMyCa",
+"vsPre": "38358752824",
+"vtPre": "839182666469593",
+"tokenAmount": "7589825857422",
+"solAmount": "343818743"
+},
+{
+"signature": "7ikpNaWpggFWq4MksJyaXiNBFCiwz5ipGghCyyyfbvnVpLcRGEoJeqGcmfSLXmTYwUsZW1cuZ5fzCeUejYe5qks",
+"vsPre": "46009572072",
+"vtPre": "699637031004165",
+"tokenAmount": "6695786076189",
+"solAmount": "436154521"
+},
+{
+"signature": "WK61mkByKRhxqAb7zcTV4soyRsLgfjNerYpyVKYQzLiiF2hLWEhQ6ibDzKtmG4R5mHMovKo1AxEyA5mXBovQxKA",
+"vsPre": "41003252534",
+"vtPre": "785059673518840",
+"tokenAmount": "7443735289236",
+"solAmount": "385130656"
+},
+{
+"signature": "37R3d3P2XvgKGHfoX8Ri6f5Cqde1bA2dZWXa5Ake2w1Eu6Genfk9W36kL2JxhPnKZUVUsskY3191ynMaSFDg1AyW",
+"vsPre": "48363857594",
+"vtPre": "665579665368750",
+"tokenAmount": "7014590342204",
+"solAmount": "504394210"
+},
+{
+"signature": "5DJRavVxFq627RF7sYt4FBzAr2CJAS2sqLeLZhByGHbmcYSyHeJDvtGPtzvtdrKHe7F8isbKwTnx3ihrgUD8GhSw",
+"vsPre": "61635834195",
+"vtPre": "522261139267204",
+"tokenAmount": "4866741511271",
+"solAmount": "569056738"
+},
+{
+"signature": "4JV8Q6gjszaf7E2KTGbvQfdrjoQRdraQcbHeqqTLjX3HAFQHfzM9vLhTL4kMjY4cj816f3qZyGr162bSUn9VWxUi",
+"vsPre": "100003689042",
+"vtPre": "321888128001990",
+"tokenAmount": "2890735443803",
+"solAmount": "890095511"
+},
+{
+"signature": "4xRWLjALcCKjC5XXrvGxcsXxd4nYLm8j6969WUVu1CSUgNmgJzNi6PK62DR24Bn5XrNHmeFx1EpJmoyqvPTyi4VS",
+"vsPre": "42703782894",
+"vtPre": "753797390013858",
+"tokenAmount": "5801166484699",
+"solAmount": "326135103"
+},
+{
+"signature": "2QW4UgUWMcAxTJ7uZHmw2Shw6cgH6fDTou8QtNu9gEkBa4e2PrY1iRtUX782Psy4KjzWbmSAe7hrQ9cBsBPFoMT6",
+"vsPre": "109655818676",
+"vtPre": "293554875584065",
+"tokenAmount": "2928536785001",
+"solAmount": "1083133441"
+},
+{
+"signature": "28dYwBfWXWoPdJ94GERYtSd3hue2SWYcNtyT5Ww9yRrtn1LNXJTavA6MGBLZH5HAjdnPD95Y6gDthkUieFyPkdJ6",
+"vsPre": "53139645880",
+"vtPre": "605762411941187",
+"tokenAmount": "6742949371177",
+"solAmount": "585003763"
+},
+{
+"signature": "d4nT6kz2icG2daHc3H3Kdy8ae5ytgLXeavKgSWrgB9hLWWamB6gA9Fm3s7KEyms9kys7VT6cwyoxZXWYThjQBG6",
+"vsPre": "72825199088",
+"vtPre": "442017338421538",
+"tokenAmount": "4201423884521",
+"solAmount": "685694006"
+},
+{
+"signature": "4KUzpf78kkEbtiEhP16BZAY6jUxxqzG2pKxwXNKACGpukvqeCMWVhLCg8jJU79JRpY1cnfV3sZ69gUa22JKQZqu9",
+"vsPre": "74524926840",
+"vtPre": "431936025300750",
+"tokenAmount": "4866137262785",
+"solAmount": "830235183"
+},
+{
+"signature": "4TSLgbU4ddcmrSavZ1GJmHZWzEyLGizE7ZRGSgrf3zRwRpk6t9JfdSzoKunP9pYAQ6LYQ9nXXN4mgpr5yiErmRiJ",
+"vsPre": "44115586246",
+"vtPre": "729674085217126",
+"tokenAmount": "6726802771658",
+"solAmount": "402982740"
+},
+{
+"signature": "26jjtrcVJ3Lq8vDWQzMACLxvLeE42upynTWGcfbfmZLiZPkam7dnq66Q1ZzGX1Br8w94b4QcsTa7AyVzzDzTuDR3",
+"vsPre": "109607783449",
+"vtPre": "293683524643945",
+"tokenAmount": "2921488783846",
+"solAmount": "1079610577"
+},
+{
+"signature": "5SKYbhzk7n9G8dsNUYpZRFh9QyNeYJt8hf7nkcmmWkoG4hWEirQrfqw353jVHR3HUCZLvkpPfZnLUwYsvUdwRCxX",
+"vsPre": "37100551508",
+"vtPre": "867642095268483",
+"tokenAmount": "7929700425612",
+"solAmount": "336004723"
+},
+{
+"signature": "5ESDALvhDTsxwk6Xderg9jkDbeLKMR7X6A15DnHVjiUNo8tabKPP75MqoSXkvfLwbeUJVTXRKTJcq3TzE3xQXHh",
+"vsPre": "56282721777",
+"vtPre": "571933967611787",
+"tokenAmount": "5752584992494",
+"solAmount": "560461619"
+},
+{
+"signature": "RHBpVbN5tJGjZZsderwtuMM8zgtnzsvQsSArcqNx9Uw6LAtUx5ytWVaXZbcNixYqSoVdLSEvBUEeqo3jRk2geDG",
+"vsPre": "93904036299",
+"vtPre": "342796767903686",
+"tokenAmount": "7302147380133",
+"solAmount": "1958592508"
+},
+{
+"signature": "3Q4d8sKCEyafivx11FEZMrKxyYAQkeRibstNaCQFZYTY57nkQMz1Sc37cCjjf8fsxaHjtifqtT4tJMq1tZwW4e6p",
+"vsPre": "35030126424",
+"vtPre": "918923344031050",
+"tokenAmount": "8146454436201",
+"solAmount": "307820758"
+},
+{
+"signature": "32jzGK39NrfcQJeAcPY1LTDuFHJAjborwfK5pdMBoF2Vtt5tQhjE5ivmNEMKPtUYJ6iQrvNPxsLsEGVrWKBnwkRH",
+"vsPre": "68499247794",
+"vtPre": "469932177341151",
+"tokenAmount": "4490080874305",
+"solAmount": "648298339"
+},
+{
+"signature": "5DQiZjUXG8qd24yAHEUF6xQLXZ14AKLrVYpqYC9SHZogFMGCbpT6Uq1ELT66y1Xj6LEymx7Q2xQnTk5xwtpvJz4y",
+"vsPre": "48187106352",
+"vtPre": "668021023482702",
+"tokenAmount": "5989710535463",
+"solAmount": "428222881"
+},
+{
+"signature": "NPrGMNSHXf1WhgZ9bwPWh6vyLLriz51JhDwdH493e682vPRJfPD22vVc1Cd7W69epTnueZwcDdwbn9tC79YdcLy",
+"vsPre": "50370803274",
+"vtPre": "639060688788022",
+"tokenAmount": "7424873673434",
+"solAmount": "578507661"
+},
+{
+"signature": "3YaEhDzwicbdCptTZLggvnieA7xNLr81L153nBBnpYAPwvqFkDSVyk2SU9v7aUErbkepeBrW9oP2RT8tfmaBC5iz",
+"vsPre": "30754314772",
+"vtPre": "1046682402903486",
+"tokenAmount": "8602248705681",
+"solAmount": "250696590"
+},
+{
+"signature": "nyfVSeU5JdqDGTYrFVMQ1K8e6M3BWKa8oB6d246GzdkuTJntz26oVc9EqWj5JfoeHNiPZuFWasziaxLnffoTv4v",
+"vsPre": "66842977348",
+"vtPre": "481576398422006",
+"tokenAmount": "4597795119379",
+"solAmount": "632140329"
+},
+{
+"signature": "3CosoNbzVvskUnWwjfbVe8zGxwqqJaDcFsvJ1JJajjvysqJjUoyFyU82WkznthkMJhJGTZvCnao3YvXYT2ESorER",
+"vsPre": "34945714035",
+"vtPre": "921143005903017",
+"tokenAmount": "8728184378678",
+"solAmount": "328016007"
+},
+{
+"signature": "36hrxbzrbXAdZnM4Gdwz6RNVqkJvt8QaV5feJvzgi6CHq4Rh8GBcsmhcvgUKoDZra131y9wL2ADaMyW14aryDRT7",
+"vsPre": "46818405761",
+"vtPre": "687550122620730",
+"tokenAmount": "6894323906087",
+"solAmount": "464805004"
+},
+{
+"signature": "4NSVmkm9a7JQYpEe8cDLUvo7zDNANgW3UUqfe8YyZjnRX4T37GphN4Evhe8YxQ66h7xkr53TFzg1pwwgRroq9Mui",
+"vsPre": "62352886039",
+"vtPre": "516255177393165",
+"tokenAmount": "4953005199268",
+"solAmount": "592535150"
+},
+{
+"signature": "2cUJFBm6K5GMYChfsQbuZeJYGtaE2gbPymBthN4fUPTAEPhq1uMEatc8ZckcMkq9X2XSTchap2qjtPqWBy9fwT7y",
+"vsPre": "41580539915",
+"vtPre": "774160226950372",
+"tokenAmount": "6957618687918",
+"solAmount": "370368623"
+},
+{
+"signature": "2MMSrNT1i8eV5N4vB1RMUgMGo1Vuxch1u4fPeSCAmD2XZWSqPT9BuYZDFSBhDCg5ERS378pq6aWZp3Xx3FikCcxc",
+"vsPre": "61077063215",
+"vtPre": "527039096473722",
+"tokenAmount": "5234537510480",
+"solAmount": "600650037"
+},
+{
+"signature": "3vKo9idgWoJosDkJ9c2MPMcmNqPBAycDgPp9NesvQtAejXM8KL5X7RFM1buXWSxB55uxCn3VThmfVsFMc6k4CxN4",
+"vsPre": "60867194176",
+"vtPre": "528856318048557",
+"tokenAmount": "5355237131796",
+"solAmount": "610166993"
+},
+{
+"signature": "2p8Y2kggSMiAt66G3gfwQRR3gqKsT1JshLvUSpjyhk3SGpB1Ze2GEbuGUTzHzkG3yGvsCtnvZE9wVmTPfDdWQBD8",
+"vsPre": "42747180728",
+"vtPre": "753032121800828",
+"tokenAmount": "6985241848655",
+"solAmount": "392884965"
+},
+{
+"signature": "54ueCn9Enj74wzx88H8KiHHZf4MzCiCqLnByqDZsxCfcASFq2nYZ1BZQEFbwwnm5XiwgJ3yAivepfewQTFCnuyyc",
+"vsPre": "43214467095",
+"vtPre": "744889440089145",
+"tokenAmount": "6996641834369",
+"solAmount": "402130263"
+},
+{
+"signature": "2H2x2uESc2yTevTz8TNvoN4GnYfAzrQGPUXDKT3ekCkRFHnrcc7AwWMPCme1F8qwux9oncq2QpXR41kLFFhs1xfA",
+"vsPre": "36360480264",
+"vtPre": "885301839743214",
+"tokenAmount": "8385293482906",
+"solAmount": "341163352"
+},
+{
+"signature": "2iETZqrDoME7MarHw9pDFQ3H4g7th24qLV1xQGxqBJnNym9VZdsSh9EwTbosxWe1Wcw5xgiBddMqapQR9sdvMpE5",
+"vsPre": "58040596811",
+"vtPre": "554611821853729",
+"tokenAmount": "5473977393122",
+"solAmount": "567257579"
+},
+{
+"signature": "5LgzDndYz6eeUwSKTnLuk8qKbMp8yWMm8XLkJFzxA348uvF82hPmutrrQxeBBZY7RycXAbdsV9T9cVsJWBEpU18n",
+"vsPre": "40086869674",
+"vtPre": "803006082670434",
+"tokenAmount": "7293340353927",
+"solAmount": "360813763"
+},
+{
+"signature": "5kE8qJmQexqfVbFaVqAPVJYU8QtuLmBwUYCy6L8BykmRJ3tq2CQm2Ki8i2bYAfcXD9HB7Qx6YL8HswgWTFQojD7",
+"vsPre": "53755222275",
+"vtPre": "598825543904762",
+"tokenAmount": "5499284659105",
+"solAmount": "489166182"
+},
+{
+"signature": "4ABmspcJeCvwkwLE6TcLPbTF9JvKadgt5GGGsM777tqEN3xwwhGxNYSLEMeY2idjqKEcTtQkyjQZrYVUMryX2sbC",
+"vsPre": "41955185745",
+"vtPre": "767247232802006",
+"tokenAmount": "6972503497213",
+"solAmount": "377841929"
+},
+{
+"signature": "5Jh4qcFZgr1ohKRYzmNQYcwDAqqTzryqAS8DAwVVCbFiADC1qN32DpwoQ7WP2i6iVoVFfMZrNuDsgdWwXwFNK9oM",
+"vsPre": "38087248879",
+"vtPre": "845164749823816",
+"tokenAmount": "7283517033091",
+"solAmount": "325426347"
+},
+{
+"signature": "4pt2WHkG4e31jd98RsamUPbjexH1JkQi3FbcrRobML7EZHnG7H9FE8HUfALmDHieRXRtzyD6jLtfAq4oaW7weRJh",
+"vsPre": "53012086297",
+"vtPre": "607220021099031",
+"tokenAmount": "5681353666742",
+"solAmount": "491401101"
+},
+{
+"signature": "qwSAZYVnYSuJsGdoAMybeG9kSAMgHttcpNh1eF2AintkHib3BtvyWRUrQaBjWqSukHR6zHxUeBG8GWrZcBLnLPc",
+"vsPre": "34859833527",
+"vtPre": "923412328736267",
+"tokenAmount": "7940200723333",
+"solAmount": "297195816"
+},
+{
+"signature": "5xRfJDQXt7WQaD2R3oNvmCGFfgjPRToFYyQx51cRAFdgLrGweyienCyqM9xAoj2D39FMVTYM3iEbUFwtpaHK8yPm",
+"vsPre": "42122221263",
+"vtPre": "764204716479593",
+"tokenAmount": "6987519444782",
+"solAmount": "381655605"
+},
+{
+"signature": "BEjFU8JXUC4J27synGNZaKzDKwqFMyfRievdyev5K6WZMzkNwyjrUCiRmz6mGfFp2TEDmZuo6dDboGUeSueZb8a",
+"vsPre": "62433627548",
+"vtPre": "515587534968932",
+"tokenAmount": "5305323319744",
+"solAmount": "635890039"
+},
+{
+"signature": "26cQjrMF7awm8684rzrQsNC329CwxRQZ54ggL326wZXKgifjmz4dUdWXhDxG7CVnF7f5uBcaTYTNQeZNgc4PGZMh",
+"vsPre": "42594702044",
+"vtPre": "755727791873947",
+"tokenAmount": "7371180498919",
+"solAmount": "411444974"
+},
+{
+"signature": "5PaSr9XznjWGKsnw59putTxJVKcnk9b15j1UUoMkv3TyqEG115VaSPSo2A4kxKtC5bwrEYV4BcSf1zwGFG7XMYUL",
+"vsPre": "58181457852",
+"vtPre": "553269054850659",
+"tokenAmount": "5123833828333",
+"solAmount": "533875212"
+},
+{
+"signature": "5urssy1eByaGE8aPDFk86MZaRMyuQGnYUjGv6bm4DtkQugCdBYJcWnpHHxxLenxZmLoXSKyGFucfhuy9xTKaRpwR",
+"vsPre": "41311905365",
+"vtPre": "779194279161597",
+"tokenAmount": "6668957418897",
+"solAmount": "350579241"
+},
+{
+"signature": "adUi8nSZuPS9eRkeBKshCmqc83DBa78xuooCNLfUkDk6PqWR4JT5hnjrLmZGQ1zNqaaTgnh5SWLQnnMXbmFQxNL",
+"vsPre": "46318243328",
+"vtPre": "694974556283240",
+"tokenAmount": "5847744575856",
+"solAmount": "386484927"
+},
+{
+"signature": "Hq8tXjHej5soPejnxGmZWAuXptZum8rdQjz8oS2T5EbUsNNZFy6TMkzJcvMBz5h6U8aFtsZkBNpTXmFTAAbutSL",
+"vsPre": "64285033533",
+"vtPre": "500738638015301",
+"tokenAmount": "4870987074708",
+"solAmount": "619314886"
+},
+{
+"signature": "3sdWXJqteZY5ergNLuiHBSnGdKjPmuN2wwA6Ncutct67MN5DLJ1CK7YsGByEUpxDTHJJz5iPmQGGDVYX1a69eUW5",
+"vsPre": "60137764264",
+"vtPre": "535270980979281",
+"tokenAmount": "5434188380878",
+"solAmount": "604395811"
+},
+{
+"signature": "39gFoe9QNj7Db4DWmwtVjHskY4VsQKHESz1xFyiSBAb3WiRpmYrGB1Ez6UsivrMNg3YghEXNgZxYGAnTkwF65umH",
+"vsPre": "47438203744",
+"vtPre": "678567010789734",
+"tokenAmount": "6340472340770",
+"solAmount": "439155106"
+},
+{
+"signature": "ZbSe83fqkNyqsn8kNRyyir7j2t5hoc9gLoSmsB9LTft6bJ96GnWybpwM9oxBHbyRsyujdqP4hQtsN6w2kXFtzAd",
+"vsPre": "63295244053",
+"vtPre": "508569018261054",
+"tokenAmount": "4358971801987",
+"solAmount": "537896526"
+},
+{
+"signature": "2WnG8Sz2SroWazhdJW1gEdZyCaGF7sBjjLg9JeCDBYqGQkT59tNv2gL2wuvvXjPNrcrW49FajfDoHTK2GSpcMvAN",
+"vsPre": "103229342024",
+"vtPre": "311829945830361",
+"tokenAmount": "4483189448507",
+"solAmount": "1463096676"
+},
+{
+"signature": "4FiwwJqZ17FtmHqYgKyHyNnBUnMx2TEBmzwfiYTskRExVQWicMQAk3sMc9sAF4nGvPpaHjiAkoNS6Nt7SKunwRw",
+"vsPre": "47630995567",
+"vtPre": "675820434037171",
+"tokenAmount": "6670589352271",
+"solAmount": "465539913"
+},
+{
+"signature": "4jTzmLnDCd1qjfTULhjKcAb2EE7iibcRo2qMH3XmG4rj14L6UQkGggSa32EH6mnWbxaV3cxKbfwVJCHDvB5goVTN",
+"vsPre": "59481259626",
+"vtPre": "541178864887315",
+"tokenAmount": "5025202735632",
+"solAmount": "547241235"
+},
+{
+"signature": "66tFFgnxcPzqgd6GwjpBTDWFmVA9jEzdngjixCiSG8E62CLetXY2C45crqGzieYn9xnT4BHfKqoFBpmrHjB2B2RQ",
+"vsPre": "54351526761",
+"vtPre": "592255692413939",
+"tokenAmount": "5453588792468",
+"solAmount": "495911451"
+},
+{
+"signature": "4Zvcbz1HmQuvnu9tqM71Sptw8wEJhQdPVEL9FHphqZtzJWz8d8wt5yFEXd3vuyGYavVDPab3TsDEatPDBwgnwKLF",
+"vsPre": "51242236531",
+"vtPre": "628192731758964",
+"tokenAmount": "5896371483904",
+"solAmount": "476499691"
+},
+{
+"signature": "5H3pte4d7BvoKBSYQXYiJCvF4YibDpKYBm5eTbDJDnW34JeafLR3b39cjJ7ZCGiiLQA5L1pmbv7oLD6aKvStoGHL",
+"vsPre": "86050712833",
+"vtPre": "374081746335104",
+"tokenAmount": "3481139216779",
+"solAmount": "793389717"
+},
+{
+"signature": "2N3xzBq3DS9Ce1HdhduqxPHVqfwCYKXf8SQn64Ub8dw7bbT543AHqfjty6z5FAD2shcFdZvjbHfDeN8QFmJpGV1x",
+"vsPre": "49924412095",
+"vtPre": "644774745514185",
+"tokenAmount": "6370523864847",
+"solAmount": "488438868"
+},
+{
+"signature": "5eLb83Q3YLJ7q2tEES3j3HHHyjnNz7Rz683Xfdnk1WAUr4caP5mkkChbtTFNbC38hP1urXjucAv5mbYvEHz3axJ4",
+"vsPre": "75806231508",
+"vtPre": "424635277022931",
+"tokenAmount": "4433729714275",
+"solAmount": "783333999"
+},
+{
+"signature": "4sZ4Yjx1ypM6eejVWqrY1ddLPSXED46HorSwMGyBqKTRSb2fa29o1abMTbV2oFcougBsFF1vNjNtfFJ4uLVXRVrZ",
+"vsPre": "47520684103",
+"vtPre": "677389249656609",
+"tokenAmount": "5909139064072",
+"solAmount": "410957109"
+},
+{
+"signature": "3z3ieossUie1mTsMVze6YBFSa3pbbaXybcaWSmstUoyLaWbguRSnRZdveJfPBYG9rpruJFh9MfMbqMZxzwUbXXhP",
+"vsPre": "46403075965",
+"vtPre": "693704023798074",
+"tokenAmount": "5955015015195",
+"solAmount": "394950967"
+},
+{
+"signature": "caqzZq1pV15Wmevwjy7uXNzdPXewJ1DuuVcBre5BCFyHwTaSu1FBou5uxS33iGF5w25NrKBVM1E4ZjtrUWqRJRS",
+"vsPre": "44022673643",
+"vtPre": "731214109217408",
+"tokenAmount": "6881166503518",
+"solAmount": "410417675"
+},
+{
+"signature": "5XWtnCwYpGAAG3sYrGmLJ9vb97ku66deWzCNUeP1QbQuCnnMNvQFK8Gc3ZMXfPzxamrtYWtr4NwashgdqCfC3i8i",
+"vsPre": "43346971323",
+"vtPre": "742612438764972",
+"tokenAmount": "7241438166533",
+"solAmount": "418607440"
+},
+{
+"signature": "iLiFhAc3aF6heh1HMmooHtG2bsbAHdFE6iJht9G8J47mMQ1wHK5YNwAM2TV1kGoP1jhGzHaCxPXwCUHucFCyRWh",
+"vsPre": "57562591268",
+"vtPre": "559217373409933",
+"tokenAmount": "4403322645827",
+"solAmount": "449711416"
+},
+{
+"signature": "b99gqkJ85BNMmDMLRua21YRWDWxgDEArjTYmKfjXTNG1Z8K35AobuYnTubjZvzJBGKUiT3E6DMzimAtpFafDZjk",
+"vsPre": "49528772210",
+"vtPre": "649925267809044",
+"tokenAmount": "6105023973347",
+"solAmount": "460915213"
+},
+{
+"signature": "WHBmY4cnwCoEF998ptuBHnubfdCphmhm3To3pXodqEzJ1bVtzQAqNr9tYx1opo9AKsj8e7a4125mCg6UQHVHrMb",
+"vsPre": "72675409373",
+"vtPre": "442928370597878",
+"tokenAmount": "4879655283310",
+"solAmount": "791926282"
+},
+{
+"signature": "4njNvvnFMPBp5MUxA7sMDSKqQnbT5vVy1Z8bnzXnCcJ6FSUi7J9ubLzBagMtXDDV9rEMtwRzVCAdHu7P4FDakkb4",
+"vsPre": "50798000407",
+"vtPre": "633686369784459",
+"tokenAmount": "6242950158943",
+"solAmount": "495569393"
+},
+{
+"signature": "4zsPia3js7iRxpesSVT7t98Jx4CaNtPWLhMhQXM9KJWBJrUxWFPfrkGWVLu3d4Sf1WfRwzqEucaYE1hdfMUCkjJ3",
+"vsPre": "54547572066",
+"vtPre": "590127099252269",
+"tokenAmount": "5893089175317",
+"solAmount": "539333587"
+},
+{
+"signature": "51ohewPb9LQGLbdStbp4a7oorXqWywP7g4THNq6FZ2PURga3J2P6aHmibiyqQYGpMH3RUjXdVEiPfp93DX3keoZV",
+"vsPre": "52547236671",
+"vtPre": "612591690375016",
+"tokenAmount": "5792434495348",
+"solAmount": "492212548"
+},
+{
+"signature": "3zcAbVNkwMuDTZkxCz9qbzpPeMMsyXZ7P45eL5PvwDR7kagprHfjughSfwRQFivJ23ySVZjTaUrDSrBRhtMUc4hh",
+"vsPre": "48526511172",
+"vtPre": "663348748282902",
+"tokenAmount": "6454808271348",
+"solAmount": "467643568"
+},
+{
+"signature": "4CHCMQXmVasq1ydMjsxQfn19XPDhZUinGj33Ax8FyLat1brk2n8pG9M28JCXA989rX8jErybk69YSvHcFVCBZaJ4",
+"vsPre": "53866992327",
+"vtPre": "597583034256196",
+"tokenAmount": "5355301126152",
+"solAmount": "478446878"
+},
+{
+"signature": "5k2CFKqnB4YwAFjKknrwiWu3DtxiJZnLJzHbuR9Ge7aieCFsf67MZXDRXidEs9JPhBau4iqFYvSCbhEDJsHQ6su8",
+"vsPre": "58838312010",
+"vtPre": "547092516559565",
+"tokenAmount": "5312380256281",
+"solAmount": "565837647"
+},
+{
+"signature": "59o2L3zEjLrzHeedGLb6FqkQ6EPArdrABSPXbq2BouFSzv5dfeHkZkUJhTydwd7YhAcWB7LUHYAP56V4qY41m8j6",
+"vsPre": "51742591425",
+"vtPre": "622118056698919",
+"tokenAmount": "5666070030367",
+"solAmount": "467003121"
+},
+{
+"signature": "2t6Y4GR9KedY9R7Q6LEq9nBi5TQoYqPfkouca9MSWvKsoQM7SRj6NubcofygbXxrsDjq3Aaa8Zx42jYvfjnZH6UH",
+"vsPre": "35430926952",
+"vtPre": "908528310583498",
+"tokenAmount": "7202324312901",
+"solAmount": "278668220"
+},
+{
+"signature": "5Bzo3CTZ62AZe1yio5W2veb6RzdcqzhbNHg5Dtdo1cSP9PXGzYMWeuD83hV2VY9UhT3gSyuBscGw1ePvwbM64m5f",
+"vsPre": "49276279999",
+"vtPre": "653255491896911",
+"tokenAmount": "6299556636335",
+"solAmount": "470648685"
+},
+{
+"signature": "5FhnDA88tL2m58WwFR8qASuivwvqxoXXvVeRDjriNE5bM4ed2CkEL1FV5DqTnSQbA3mfJDvJk1gS3uiwLZ5JKTVo",
+"vsPre": "42470101015",
+"vtPre": "757944987901830",
+"tokenAmount": "6791411533589",
+"solAmount": "377165169"
+},
+{
+"signature": "3Lyc9AMF6U8BNJbhcEHhxMWK1JazPqXLnmu26Ce29waE2JQF6rLKpSEb6ScyGh46TSU1WeksJtQfRc3GNztjmoeL",
+"vsPre": "54983738854",
+"vtPre": "585445826024739",
+"tokenAmount": "6271736880677",
+"solAmount": "582784024"
+},
+{
+"signature": "5xSLaXUuxNbxXobdxEUsGhcRtQVGPij2SzC7n4aXkgk7BTZPSfBNfh8sC8iw3zenNrYTHd57ZUVa1CwanFDoMHBC",
+"vsPre": "38662604701",
+"vtPre": "832587465592030",
+"tokenAmount": "8061196167988",
+"solAmount": "370745657"
+},
+{
+"signature": "4NU4Dyf9AAs85GXVfuY97mvhUncfZHYQi3A3UebQHSwkbDtv4BzBws4xChQzb1T5g9xhu92SRcKxXantb48EtUs2",
+"vsPre": "75843404256",
+"vtPre": "424427165229694",
+"tokenAmount": "5612559935498",
+"solAmount": "989851930"
+},
+{
+"signature": "5D28xCKj556BM2wR17YvGLeptYZ5rH6nNFRRX6Uvi5zsWmuPvHmQHF8NSCT4qicGbQvbuNB6p5vnD249Rfnkygx7",
+"vsPre": "58830903204",
+"vtPre": "547161416969494",
+"tokenAmount": "5126643015951",
+"solAmount": "546100958"
+},
+{
+"signature": "61fUDZ6uZnPu7pU3G4vuL5ezDEWJ1V34CgctkSsdn8cex2ACmYFhymUk6v113DzWoak8QPNFUo9ci8Q49T1KW3xU",
+"vsPre": "43561778637",
+"vtPre": "738950547954145",
+"tokenAmount": "6382962566691",
+"solAmount": "373058769"
+},
+{
+"signature": "2qpW9ujHNz9VnqZkbuZFnNo3hRtMPaZMSHRJ5HAvYs4m8Yw45oPuPXbA88W6Tecn7KqY74QKc2TF3BgPtL4czrbs",
+"vsPre": "41137341892",
+"vtPre": "782500731470851",
+"tokenAmount": "6859970079862",
+"solAmount": "357505680"
+},
+{
+"signature": "3Axu29GCfBDEcBH36ERN6nW5Jc5WabQ2Ko129FEZFzCVE3KBh6M5bEtGDkiiNAYsAM33kCfRULHAUsCs1NGWsb9n",
+"vsPre": "36205947998",
+"vtPre": "889080447199952",
+"tokenAmount": "7609402693747",
+"solAmount": "307247414"
+},
+{
+"signature": "2r3g9f55h1FL8Qv5Bost7brna75BWGk2EJ6XheYiegowG4Eq1ZHvCi79zqpjRXG8cFKqq7x8xLzjauiGiNH2EBHf",
+"vsPre": "59289864308",
+"vtPre": "542925856228006",
+"tokenAmount": "5078704657662",
+"solAmount": "549476649"
+},
+{
+"signature": "2kDK1AwMspXfNXEwxPfiKfxKdbqckQDfEWnwBUbUJtmU1VyXmuHh9YFgkY765C9B7X5FD5TrBsowdcq2Vzv4r6rA",
+"vsPre": "51218180200",
+"vtPre": "628487782805090",
+"tokenAmount": "6524755644295",
+"solAmount": "526266947"
+},
+{
+"signature": "4FgoLjT4pQvaxwRCvR1xe3yXL4a6rDFH96UUeBy1Ure4VjVBe5ffXg5B4LD1YRXk69yTbBsdWi2Vib6c2CCPYc4G",
+"vsPre": "30302290578",
+"vtPre": "1062295932657389",
+"tokenAmount": "6934874862312",
+"solAmount": "196536231"
+},
+{
+"signature": "DT29riBtFNN5SkiA7X1Kw5T1RXcyM65ccsX4ye1kNQcEUq8X9QuhtmpPETWT7a8niSz8ipgmVAC39u1YVhHs74r",
+"vsPre": "64123750508",
+"vtPre": "501998090747874",
+"tokenAmount": "3789096989427",
+"solAmount": "480382097"
+},
+{
+"signature": "5GDHrWFEBKSWLCk1Ywfv8hjdx4qwEtdvpgiLrUjThqKTKa6QGs6DX4h6BUARatZxLpZfsLeqhYENekHcBZhM8Wew",
+"vsPre": "31493987452",
+"vtPre": "1022099856325971",
+"tokenAmount": "8776730862129",
+"solAmount": "268135153"
+},
+{
+"signature": "5d2sWkakAbW9qbPaxmBxzZrJtnSHYJbBkcQGPwmH2v2Fk75dWLGiGGBqo7YQ9vyx4yr28SrHb6bvjcnYPE5uBi45",
+"vsPre": "84552835476",
+"vtPre": "380708710030846",
+"tokenAmount": "3420968843609",
+"solAmount": "753007725"
+},
+{
+"signature": "5g2G4nNPCeTpRKzAf8nHpNhy53Sj9sVB6id4up5dXPiPBEJGtag7RbBZdRK2ZnPoC3dYH3fxG8rHQrPQfeBEKaFT",
+"vsPre": "82434399278",
+"vtPre": "390492325712784",
+"tokenAmount": "4351306771186",
+"solAmount": "908454208"
+},
+{
+"signature": "5XqYMRWKG8b8cgq9dncHbNoqDHzB6Fbg5oQiUMqfyLMzLvuASRmfnANnJfbx2TJJWLAHnYmrUF8p9zoBHQ3BPYou",
+"vsPre": "38592523323",
+"vtPre": "834099396399316",
+"tokenAmount": "7525737136510",
+"solAmount": "345090913"
+},
+{
+"signature": "548cWLb2Rj6Kq5sCxRk91XkbiobL96hufVcahG8y1wQpTDSR3KVWen2pCeBVNRWZeVRpEXm3BpnH1yggMV9rmFPd",
+"vsPre": "39952728148",
+"vtPre": "805702185990078",
+"tokenAmount": "7929626045399",
+"solAmount": "389377835"
+}
+]
+}
