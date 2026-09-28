@@ -1,0 +1,13 @@
+{
+  "address": "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d",
+  "genesis": {
+    "signature": "37QCRGhCN7nfMHGqAbDo5NW2gkX1bccxzN3CeCohAgemNM4mygnCHeGqvhXpZjTCE7inPM5mDGZAJFPSfJmCLWoS",
+    "blockTimeIso": "2026-08-13T19:25:51+00:00",
+    "pre_sol": 0.0,
+    "post_sol": 120.0,
+    "funder": "CsWMAj1XMK9bCZHjXM7eaYw3era7apSUcG43EZtiy85u",
+    "amount_sol": 120.0
+  },
+  "related_dust_from": "Cs12bfrems1WjNBz8r7wRJ9mviXcG2KzBdvzvpx3z85u",
+  "n_signatures_full": 292497
+}

@@ -1,0 +1,11 @@
+# Large RPC dumps — regenerate via scripts/continue_sigs.py
+data/*_signatures.json
+data/*_trades_*.json
+data/*_pnl_*.json
+data/*_funding.json
+data/funding_summary.json
+__pycache__/
+*.pyc
+.Python
+data/timelines/
+data/*.pkl

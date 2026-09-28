@@ -1,0 +1,375 @@
+{
+  "sampled_slots": [
+    451270123,
+    451269342,
+    451268586,
+    451267527,
+    451266444,
+    451265411,
+    451264551,
+    451264038
+  ],
+  "block_summaries": [
+    {
+      "slot": 451270123,
+      "focus_mint": "2SPM7V4cTeY2ipYa5gn6CWZ99dy1S4ZBdJKUUHEj9zux",
+      "formula_buyers_on_focus": [
+        {
+          "slot": 451270123,
+          "order_idx": 515,
+          "mint": "2SPM7V4cTeY2ipYa5gn6CWZ99dy1S4ZBdJKUUHEj9zux",
+          "user": "HzF8PGdWKsV1EMrREeKyCHtPygV5SLB1BdkC9VJGLC6x",
+          "sol_amount": 0.827538469,
+          "real_sol": 16.761688524,
+          "expected_1x": 0.44255417081415993,
+          "size_mult": 1.869914517984523,
+          "size_class": "2x"
+        },
+        {
+          "slot": 451270123,
+          "order_idx": 689,
+          "mint": "2SPM7V4cTeY2ipYa5gn6CWZ99dy1S4ZBdJKUUHEj9zux",
+          "user": "4KQGocKQW25nJ8xT9GPNW5Uqy2t7eFs2NzwcXqiyuY1X",
+          "sol_amount": 0.197530863,
+          "real_sol": 16.959219387,
+          "expected_1x": 0.44439910907457997,
+          "size_mult": 0.44448978174447684,
+          "size_class": "0.5x"
+        },
+        {
+          "slot": 451270123,
+          "order_idx": 769,
+          "mint": "2SPM7V4cTeY2ipYa5gn6CWZ99dy1S4ZBdJKUUHEj9zux",
+          "user": "omegoMAe1AMY5MFKQQr3JwXVy8F4eCvmBAfcpo8XAfq",
+          "sol_amount": 0.447791129,
+          "real_sol": 17.407010516,
+          "expected_1x": 0.44858147821943994,
+          "size_mult": 0.9982381144612188,
+          "size_class": "1x"
+        }
+      ],
+      "n_formula": 3
+    },
+    {
+      "slot": 451269342,
+      "focus_mint": "FjtCK2EaxcWKyHXXpdzRYrPAxBZP2herqocQAPaNeZhf",
+      "formula_buyers_on_focus": [
+        {
+          "slot": 451269342,
+          "order_idx": 886,
+          "mint": "FjtCK2EaxcWKyHXXpdzRYrPAxBZP2herqocQAPaNeZhf",
+          "user": "omegoMAe1AMY5MFKQQr3JwXVy8F4eCvmBAfcpo8XAfq",
+          "sol_amount": 0.42653033,
+          "real_sol": 15.346908816,
+          "expected_1x": 0.42934012834144,
+          "size_mult": 0.9934555422240768,
+          "size_class": "1x"
+        }
+      ],
+      "n_formula": 1
+    },
+    {
+      "slot": 451268586,
+      "focus_mint": "HraBWzakZQSiE2wvUxxrZ2dkLcApXcfJNeeqtESZpump",
+      "formula_buyers_on_focus": [
+        {
+          "slot": 451268586,
+          "order_idx": 280,
+          "mint": "HraBWzakZQSiE2wvUxxrZ2dkLcApXcfJNeeqtESZpump",
+          "user": "omegoMAe1AMY5MFKQQr3JwXVy8F4eCvmBAfcpo8XAfq",
+          "sol_amount": 0.363866185,
+          "real_sol": 8.583503861,
+          "expected_1x": 0.36616992606174,
+          "size_mult": 0.9937085465032114,
+          "size_class": "1x"
+        }
+      ],
+      "n_formula": 1
+    },
+    {
+      "slot": 451267527,
+      "focus_mint": "DtikPz1qMoLduyZgBpW4TZGCTSPXx7EFTVV7gzxNpump",
+      "formula_buyers_on_focus": [
+        {
+          "slot": 451267527,
+          "order_idx": 704,
+          "mint": "DtikPz1qMoLduyZgBpW4TZGCTSPXx7EFTVV7gzxNpump",
+          "user": "kv9h5rzPPL6bS2MXbnTzA1imRohMKF8pqFd1UP1aQ2U",
+          "sol_amount": 0.296296296,
+          "real_sol": 39.869550086,
+          "expected_1x": 0.6583815978032399,
+          "size_mult": 0.4500373293977597,
+          "size_class": "0.5x"
+        },
+        {
+          "slot": 451267527,
+          "order_idx": 829,
+          "mint": "DtikPz1qMoLduyZgBpW4TZGCTSPXx7EFTVV7gzxNpump",
+          "user": "omegoMAe1AMY5MFKQQr3JwXVy8F4eCvmBAfcpo8XAfq",
+          "sol_amount": 0.661562258,
+          "real_sol": 40.440079205,
+          "expected_1x": 0.6637103397747,
+          "size_mult": 0.9967635252218172,
+          "size_class": "1x"
+        }
+      ],
+      "n_formula": 2
+    },
+    {
+      "slot": 451266444,
+      "focus_mint": "7TCf44XhrJHgDZ28VzVqAMc5JHwpRoZyK5eaKRmXiFJh",
+      "formula_buyers_on_focus": [
+        {
+          "slot": 451266444,
+          "order_idx": 833,
+          "mint": "7TCf44XhrJHgDZ28VzVqAMc5JHwpRoZyK5eaKRmXiFJh",
+          "user": "omegoMAe1AMY5MFKQQr3JwXVy8F4eCvmBAfcpo8XAfq",
+          "sol_amount": 0.360100914,
+          "real_sol": 8.28441293,
+          "expected_1x": 0.36337641676619997,
+          "size_mult": 0.9909859236453766,
+          "size_class": "1x"
+        }
+      ],
+      "n_formula": 1
+    },
+    {
+      "slot": 451265411,
+      "focus_mint": "BStALTMgcieEvxuu5dv3D9NVmtmjSeQ7fHsLNxERfC2E",
+      "formula_buyers_on_focus": [
+        {
+          "slot": 451265411,
+          "order_idx": 475,
+          "mint": "BStALTMgcieEvxuu5dv3D9NVmtmjSeQ7fHsLNxERfC2E",
+          "user": "omegoMAe1AMY5MFKQQr3JwXVy8F4eCvmBAfcpo8XAfq",
+          "sol_amount": 0.419109177,
+          "real_sol": 14.256758463,
+          "expected_1x": 0.41915812404442,
+          "size_mult": 0.9998832253471609,
+          "size_class": "1x"
+        }
+      ],
+      "n_formula": 1
+    },
+    {
+      "slot": 451264551,
+      "focus_mint": "HFJfqo3DTQcWgdt4LAXchH4WZaxAHUydwuooYitQpump",
+      "formula_buyers_on_focus": [
+        {
+          "slot": 451264551,
+          "order_idx": 376,
+          "mint": "HFJfqo3DTQcWgdt4LAXchH4WZaxAHUydwuooYitQpump",
+          "user": "omegoMAe1AMY5MFKQQr3JwXVy8F4eCvmBAfcpo8XAfq",
+          "sol_amount": 0.357611379,
+          "real_sol": 7.615334553,
+          "expected_1x": 0.35712722472501995,
+          "size_mult": 1.0013556913095967,
+          "size_class": "1x"
+        }
+      ],
+      "n_formula": 1
+    },
+    {
+      "slot": 451264038,
+      "focus_mint": "HFJfqo3DTQcWgdt4LAXchH4WZaxAHUydwuooYitQpump",
+      "formula_buyers_on_focus": [
+        {
+          "slot": 451264038,
+          "order_idx": 644,
+          "mint": "HFJfqo3DTQcWgdt4LAXchH4WZaxAHUydwuooYitQpump",
+          "user": "72WM6LyCuK6fav7evAUBBW1iokbVAt7y96MKK4RYFfPS",
+          "sol_amount": 0.713491599,
+          "real_sol": 12.510273911,
+          "expected_1x": 0.40284595832874,
+          "size_mult": 1.7711276090742347,
+          "size_class": "2x"
+        },
+        {
+          "slot": 451264038,
+          "order_idx": 1026,
+          "mint": "HFJfqo3DTQcWgdt4LAXchH4WZaxAHUydwuooYitQpump",
+          "user": "omegoMAe1AMY5MFKQQr3JwXVy8F4eCvmBAfcpo8XAfq",
+          "sol_amount": 0.40364578,
+          "real_sol": 12.913919691,
+          "expected_1x": 0.40661600991394,
+          "size_mult": 0.9926952460269122,
+          "size_class": "1x"
+        }
+      ],
+      "n_formula": 2
+    }
+  ],
+  "wallet_stats": [
+    {
+      "user": "omegoMAe1AMY5MFKQQr3JwXVy8F4eCvmBAfcpo8XAfq",
+      "label": "omego",
+      "n_obs": 8,
+      "class_counts": {
+        "1x": 8
+      },
+      "dominant_class": "1x",
+      "dominant_n": 8,
+      "avg_mult": 0.9958857268424213,
+      "mints": [
+        "2SPM7V4cTeY2ipYa5gn6CWZ99dy1S4ZBdJKUUHEj9zux",
+        "7TCf44XhrJHgDZ28VzVqAMc5JHwpRoZyK5eaKRmXiFJh",
+        "BStALTMgcieEvxuu5dv3D9NVmtmjSeQ7fHsLNxERfC2E",
+        "DtikPz1qMoLduyZgBpW4TZGCTSPXx7EFTVV7gzxNpump",
+        "FjtCK2EaxcWKyHXXpdzRYrPAxBZP2herqocQAPaNeZhf",
+        "HFJfqo3DTQcWgdt4LAXchH4WZaxAHUydwuooYitQpump",
+        "HraBWzakZQSiE2wvUxxrZ2dkLcApXcfJNeeqtESZpump"
+      ],
+      "slots": [
+        451264038,
+        451264551,
+        451265411,
+        451266444,
+        451267527,
+        451268586,
+        451269342,
+        451270123
+      ]
+    },
+    {
+      "user": "HzF8PGdWKsV1EMrREeKyCHtPygV5SLB1BdkC9VJGLC6x",
+      "label": null,
+      "n_obs": 1,
+      "class_counts": {
+        "2x": 1
+      },
+      "dominant_class": "2x",
+      "dominant_n": 1,
+      "avg_mult": 1.869914517984523,
+      "mints": [
+        "2SPM7V4cTeY2ipYa5gn6CWZ99dy1S4ZBdJKUUHEj9zux"
+      ],
+      "slots": [
+        451270123
+      ]
+    },
+    {
+      "user": "4KQGocKQW25nJ8xT9GPNW5Uqy2t7eFs2NzwcXqiyuY1X",
+      "label": null,
+      "n_obs": 1,
+      "class_counts": {
+        "0.5x": 1
+      },
+      "dominant_class": "0.5x",
+      "dominant_n": 1,
+      "avg_mult": 0.44448978174447684,
+      "mints": [
+        "2SPM7V4cTeY2ipYa5gn6CWZ99dy1S4ZBdJKUUHEj9zux"
+      ],
+      "slots": [
+        451270123
+      ]
+    },
+    {
+      "user": "4bjsSpTCd28chbmMtKqfVfBbZihunjv5cr476BJN8jsv",
+      "label": null,
+      "n_obs": 1,
+      "class_counts": {
+        "0.5x": 1
+      },
+      "dominant_class": "0.5x",
+      "dominant_n": 1,
+      "avg_mult": 0.5210701330703197,
+      "mints": [
+        "25NTi2aMwke7DW4j47F8oRLgjFVoPhWTu7NCDg9ipump"
+      ],
+      "slots": [
+        451269342
+      ]
+    },
+    {
+      "user": "AxY4vvnAFG9kHM6vjLM5Yu6enUESL3dUMPLS6AmYidWc",
+      "label": null,
+      "n_obs": 1,
+      "class_counts": {
+        "0.5x": 1
+      },
+      "dominant_class": "0.5x",
+      "dominant_n": 1,
+      "avg_mult": 0.5327392221350468,
+      "mints": [
+        "HsQyjD8Q8GfFnsN2SoUPXfXUxF7uiCZTbwoZw51tpump"
+      ],
+      "slots": [
+        451269342
+      ]
+    },
+    {
+      "user": "kv9h5rzPPL6bS2MXbnTzA1imRohMKF8pqFd1UP1aQ2U",
+      "label": null,
+      "n_obs": 1,
+      "class_counts": {
+        "0.5x": 1
+      },
+      "dominant_class": "0.5x",
+      "dominant_n": 1,
+      "avg_mult": 0.4500373293977597,
+      "mints": [
+        "DtikPz1qMoLduyZgBpW4TZGCTSPXx7EFTVV7gzxNpump"
+      ],
+      "slots": [
+        451267527
+      ]
+    },
+    {
+      "user": "CAvvAFNRfXDWTTDqwgxb9qSyYT8fTuTXWSFwL7Jsz8vT",
+      "label": null,
+      "n_obs": 1,
+      "class_counts": {
+        "3x": 1
+      },
+      "dominant_class": "3x",
+      "dominant_n": 1,
+      "avg_mult": 3.106055952909381,
+      "mints": [
+        "5tej8hR1c5Zag5DJzFPZbJp1bRUfNDTRWAv2P6FFpump"
+      ],
+      "slots": [
+        451265411
+      ]
+    },
+    {
+      "user": "6MksRSVdxizEYYi296tM8ZPWuFE91Fb2A97HSeVt3CZc",
+      "label": null,
+      "n_obs": 1,
+      "class_counts": {
+        "1x": 1
+      },
+      "dominant_class": "1x",
+      "dominant_n": 1,
+      "avg_mult": 1.0163460720653037,
+      "mints": [
+        "83eC1QKYnEVLgqoJKofABgMgZcRdq6KNVUbRogXJpump"
+      ],
+      "slots": [
+        451264551
+      ]
+    },
+    {
+      "user": "72WM6LyCuK6fav7evAUBBW1iokbVAt7y96MKK4RYFfPS",
+      "label": null,
+      "n_obs": 1,
+      "class_counts": {
+        "2x": 1
+      },
+      "dominant_class": "2x",
+      "dominant_n": 1,
+      "avg_mult": 1.7711276090742347,
+      "mints": [
+        "HFJfqo3DTQcWgdt4LAXchH4WZaxAHUydwuooYitQpump"
+      ],
+      "slots": [
+        451264038
+      ]
+    }
+  ],
+  "sibling_candidates": [],
+  "known": {
+    "omego": "omegoMAe1AMY5MFKQQr3JwXVy8F4eCvmBAfcpo8XAfq",
+    "sssss": "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d"
+  }
+}

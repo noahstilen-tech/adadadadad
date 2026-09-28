@@ -1,0 +1,122 @@
+{
+  "sizing": {
+    "3x_CAvv": {
+      "address": "CAvvAFNRfXDWTTDqwgxb9qSyYT8fTuTXWSFwL7Jsz8vT",
+      "balance": 219.050067355,
+      "n": 9,
+      "median_mult": 3.2515613212678325,
+      "avg": 3.1523716696539408,
+      "tips": []
+    },
+    "4x_CvKB": {
+      "address": "CvKBPvEmcvsVPa5gCcvKwNAGUwUhMQNbRv4mdpGtTEWo",
+      "balance": 175.171482682,
+      "n": 5,
+      "median_mult": 4.4328174549334465,
+      "avg": 4.334872425272086,
+      "tips": [
+        [
+          "AStgivajCmwQoSsh3Xn9gVJ5CJAyQfPief3iKUcU97aU",
+          1
+        ]
+      ]
+    },
+    "3x_9Nii": {
+      "address": "9NiikpALis1FGMJCH56q5onuPf2q7Vv7SYo8UsKGjyH5",
+      "balance": 15.295596114,
+      "n": 9,
+      "median_mult": 1.9381400516601415,
+      "avg": 2.3131006276321404,
+      "tips": [
+        [
+          "6TYd5ytzKVDUP4jsuXyUA6BA8SmN57mzwJjw5XvnXqmG",
+          1
+        ],
+        [
+          "5qLPs1V6j9MDFHk9G1ygimtLJCjUWmkbMBEiPX7toBvB",
+          1
+        ],
+        [
+          "7nFkbKooThkybP6NJLDEhayK54JHA9ziSSgcv3FG33ND",
+          1
+        ]
+      ]
+    },
+    "omego": {
+      "address": "omegoMAe1AMY5MFKQQr3JwXVy8F4eCvmBAfcpo8XAfq",
+      "balance": 64.44781806,
+      "n": 12,
+      "median_mult": 1.000025191093138,
+      "avg": 0.998899085876875,
+      "tips": [
+        [
+          "3KCKozbAaF75qEU33jtzozcJ29yJuaLJTy2jFdzUY8bT",
+          4
+        ],
+        [
+          "2nyhqdwKcJZR2vcqCyrYsaPVdAnFoJjiksCXJ7hfEYgD",
+          4
+        ],
+        [
+          "D2L6yPZ2FmmmTKPgzaMKdhu6EWZcTpLy1Vhx8uvZe7NZ",
+          3
+        ]
+      ]
+    },
+    "sssss": {
+      "address": "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d",
+      "balance": 123.579226569,
+      "n": 12,
+      "median_mult": 1.9481222300272685,
+      "avg": 1.9513922610826213,
+      "tips": [
+        [
+          "D2L6yPZ2FmmmTKPgzaMKdhu6EWZcTpLy1Vhx8uvZe7NZ",
+          4
+        ],
+        [
+          "3KCKozbAaF75qEU33jtzozcJ29yJuaLJTy2jFdzUY8bT",
+          4
+        ],
+        [
+          "4vieeGHPYPG2MmyPRcYjdiDmmhN3ww7hsFNap8pVN3Ey",
+          3
+        ]
+      ]
+    }
+  },
+  "funding": {
+    "3x_CAvv": {
+      "n": 8000,
+      "oldest": "2026-09-24T14:20:03+00:00",
+      "oldest_bal": 171.410320472,
+      "hits": []
+    },
+    "4x_CvKB": {
+      "n": 2124,
+      "oldest": "2026-07-27T00:08:35+00:00",
+      "oldest_bal": 0.0,
+      "hits": [
+        {
+          "from": "D9vPfXoYuqjzwpe9FaMzF6JYm2QiTUMcjDDX7q7LL1Mm",
+          "to": "CvKBPvEmcvsVPa5gCcvKwNAGUwUhMQNbRv4mdpGtTEWo",
+          "sol": 110.531257942,
+          "t": "2026-07-27T00:08:35+00:00"
+        }
+      ]
+    },
+    "3x_9Nii": {
+      "n": 666,
+      "oldest": "2026-09-27T17:02:01+00:00",
+      "oldest_bal": 0.0,
+      "hits": [
+        {
+          "from": "5tzFkiKscXHK5ZXCGbXZxdw7gTjjD1mBwuoFbhUvuAi9",
+          "to": "9NiikpALis1FGMJCH56q5onuPf2q7Vv7SYo8UsKGjyH5",
+          "sol": 12.9405,
+          "t": "2026-09-27T17:02:01+00:00"
+        }
+      ]
+    }
+  }
+}

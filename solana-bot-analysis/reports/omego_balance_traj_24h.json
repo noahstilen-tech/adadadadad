@@ -1,0 +1,207 @@
+{
+  "label": "omego",
+  "address": "omegoMAe1AMY5MFKQQr3JwXVy8F4eCvmBAfcpo8XAfq",
+  "hours": 24.0,
+  "window_sigs": 22049,
+  "fail_rate": 0.1808245271894417,
+  "points": [
+    {
+      "blockTime": 1790499013,
+      "blockTimeIso": "2026-09-27T08:50:13+00:00",
+      "slot": 450947931,
+      "signature": "3sgtgYXZo2FDkXx9GMaVFL2QT2jAB598hJx7sbTnNfzNViDYai5Pg8TZv4ktU6KwDqoC68khWzVYGESiWkArGa5y",
+      "pre_sol": 64.554646505,
+      "post_sol": 64.554541505
+    },
+    {
+      "blockTime": 1790505443,
+      "blockTimeIso": "2026-09-27T10:37:23+00:00",
+      "slot": 450971994,
+      "signature": "281wYHThyz5UjWAneDeNSbFC7iMRCGQCkPZ4nrDhXWB5orV4cGv94dth2sLzh8rswLCSzn7UjEEbVbTKMHGvXSrD",
+      "pre_sol": 59.620634388,
+      "post_sol": 59.959299557
+    },
+    {
+      "blockTime": 1790511359,
+      "blockTimeIso": "2026-09-27T12:15:59+00:00",
+      "slot": 450994223,
+      "signature": "5H5VWq2aJHVNbSbZbC8GhGVGrtfK96rsaSYM23rBoQWRSKHHC1cMu2SRNEFMiEL89nvGqRjQpKEcp6PL1FQW6zej",
+      "pre_sol": 62.185416897,
+      "post_sol": 62.689824702
+    },
+    {
+      "blockTime": 1790515131,
+      "blockTimeIso": "2026-09-27T13:18:51+00:00",
+      "slot": 451008281,
+      "signature": "4yx2V8A5qxxb4Wy5ZxKV4VyUGhpnoaPHcjUgFFsgMWoWCDtbwzdn9xe3YwaQLsHajkSERkQNx5jZfKdVEzxA9JCv",
+      "pre_sol": 66.441507441,
+      "post_sol": 67.104147048
+    },
+    {
+      "blockTime": 1790517893,
+      "blockTimeIso": "2026-09-27T14:04:53+00:00",
+      "slot": 451018560,
+      "signature": "wCkoZ87LYypaN6rEmokVnFb3U6xGp33MZvPcLzqZSGbEsT6QntpF35YasFnY3AcTjYCupTfbGad7m4pykaZAqoG",
+      "pre_sol": 61.949560355,
+      "post_sol": 61.547030821
+    },
+    {
+      "blockTime": 1790520787,
+      "blockTimeIso": "2026-09-27T14:53:07+00:00",
+      "slot": 451029371,
+      "signature": "W3ACXhd8mHAhvEHTNS6GdibNMP8SWviWGVQo1tcS3RNmLg9u2MdnqjUiw2TsAVkGc7tTFhkdU4wRUh6GEdVG795",
+      "pre_sol": 55.015408868,
+      "post_sol": 55.015293868
+    },
+    {
+      "blockTime": 1790524363,
+      "blockTimeIso": "2026-09-27T15:52:43+00:00",
+      "slot": 451042682,
+      "signature": "Vj2QrJwjmiQe3TPqEDhWTpzh2LHvfCBBSPfnjPm6VMTdh1SP3thg8Q7QNiU2dz7u4nR85KyWaWZwDPJdVCNnUmA",
+      "pre_sol": 61.420079339,
+      "post_sol": 60.86741796
+    },
+    {
+      "blockTime": 1790527772,
+      "blockTimeIso": "2026-09-27T16:49:32+00:00",
+      "slot": 451055398,
+      "signature": "YNSskABSSc5aZeKwanCcTc54jUfmmsofpyfjLRMadsEpxTdAdGyWXqyHYavBSrJAVwqhbdHRvV5aqVBDV9T7gqM",
+      "pre_sol": 65.069626124,
+      "post_sol": 65.930936052
+    },
+    {
+      "blockTime": 1790531220,
+      "blockTimeIso": "2026-09-27T17:47:00+00:00",
+      "slot": 451068233,
+      "signature": "4JgadfBWtcPvNQD1ajZ8163KFnvrN6y7uzTEW7hEZ39Jsn1ygTDmVnaWS3AugxYzDsTcBcweiEBxsHsMkJ46cSEd",
+      "pre_sol": 59.837262285,
+      "post_sol": 59.837157285
+    },
+    {
+      "blockTime": 1790535343,
+      "blockTimeIso": "2026-09-27T18:55:43+00:00",
+      "slot": 451083592,
+      "signature": "56HLJmXza6LNjwkpZHE3tyBtQsA1WfUFy1aZJbJ6iCAhf6hSfeGaQDktyKHTBZ2oVsarYvyfVLvm3a6jLPo8yZom",
+      "pre_sol": 52.953751144,
+      "post_sol": 52.953646144
+    },
+    {
+      "blockTime": 1790537939,
+      "blockTimeIso": "2026-09-27T19:38:59+00:00",
+      "slot": 451093271,
+      "signature": "34hBi9WfZ8ziPBRBFyFctK8C7ysMLFsupNbpd4QZqduPaVFCDsAsJDD9xnEmzpJQRhHeQxuBbQLAJFPa8aQ1hXBp",
+      "pre_sol": 53.22332051,
+      "post_sol": 52.86729233
+    },
+    {
+      "blockTime": 1790540543,
+      "blockTimeIso": "2026-09-27T20:22:23+00:00",
+      "slot": 451102984,
+      "signature": "5qbY9sAi82QpUE9fwAjoEgqFFaQ1nrqxTG6wzY3qYh333mm9RXUUkMWVoUNj4nC3AcdENAcQUJiipNSAk8SAkWHp",
+      "pre_sol": 57.978688482,
+      "post_sol": 58.591303461
+    },
+    {
+      "blockTime": 1790543335,
+      "blockTimeIso": "2026-09-27T21:08:55+00:00",
+      "slot": 451113397,
+      "signature": "4xoqzuxgQmQAcXsS8nDiqwBLXKFCvf9ZSLagU8f8eX7gLcoFDqrYRyCcBQYshxpaPcAUySwGTDFyWEd9r1RyDSRx",
+      "pre_sol": 65.056468071,
+      "post_sol": 65.056375571
+    },
+    {
+      "blockTime": 1790546442,
+      "blockTimeIso": "2026-09-27T22:00:42+00:00",
+      "slot": 451124966,
+      "signature": "4HAy3MEqWeaVF5bPFo4ErJ3371VmPFReQfhg9RtMNjNhCDAdrfaJ1rXL9N345Fc1nKf8x51iTuGRjnJufwfieT8t",
+      "pre_sol": 66.663212513,
+      "post_sol": 67.17419071
+    },
+    {
+      "blockTime": 1790549632,
+      "blockTimeIso": "2026-09-27T22:53:52+00:00",
+      "slot": 451136779,
+      "signature": "4Enb97ZcGxwsuSmcUE3gkPiB2ybCkygJdDnPh3AkYMG6aAe94YbVf9p9Sn93EHgqNg2nH4sDvChPFgqyfdYgKM7x",
+      "pre_sol": 63.79645511,
+      "post_sol": 64.382418769
+    },
+    {
+      "blockTime": 1790552934,
+      "blockTimeIso": "2026-09-27T23:48:54+00:00",
+      "slot": 451149131,
+      "signature": "4wLBCFvXEnWcop4yE65yTYyt2z33JVjCEVbfwy2pimHZ9LdiBdxA6nWujPBgRtMy7EJsSwiVN77r4oWKruciaVmG",
+      "pre_sol": 66.490314026,
+      "post_sol": 66.490209026
+    },
+    {
+      "blockTime": 1790556672,
+      "blockTimeIso": "2026-09-28T00:51:12+00:00",
+      "slot": 451163011,
+      "signature": "264myxR3KogDxrMEi2YKrP9FZmW9MvEc6aktF43KtgVPWf8Yg6HZ3QY2aS2F6fGtQynyZVRM4MqhydpNpn2uNNKS",
+      "pre_sol": 66.846180341,
+      "post_sol": 66.846180341
+    },
+    {
+      "blockTime": 1790560950,
+      "blockTimeIso": "2026-09-28T02:02:30+00:00",
+      "slot": 451178844,
+      "signature": "ojNoJ58arLGW1kB6CkqsU9pShqPpFdnLzxvCTzmM19azEgfnDLT1G5usJqeohAcwK9vVrRsytyKivKfVSxwLPuh",
+      "pre_sol": 57.585484931,
+      "post_sol": 57.007034604
+    },
+    {
+      "blockTime": 1790565126,
+      "blockTimeIso": "2026-09-28T03:12:06+00:00",
+      "slot": 451194460,
+      "signature": "3pruCjRui2ksCZ3hiThzAXqLSbaK4n3xfy9NaxtWdbxpZdKdyXfiCumjmDkBFbwmw72ToWwS6rje6ZfPNsCUpXDw",
+      "pre_sol": 59.951485446,
+      "post_sol": 60.266722709
+    },
+    {
+      "blockTime": 1790569382,
+      "blockTimeIso": "2026-09-28T04:23:02+00:00",
+      "slot": 451210325,
+      "signature": "5Dbe8MwowsdKHfzyMob4diF95p7Hg8gmxceBjMn3UXnVG2HLsvFFCrteUtBkNc7qnEDDSM75XMbGnm81VDcPB9AF",
+      "pre_sol": 59.601230856,
+      "post_sol": 60.11866721
+    },
+    {
+      "blockTime": 1790573577,
+      "blockTimeIso": "2026-09-28T05:32:57+00:00",
+      "slot": 451225967,
+      "signature": "2wrhRxZJhWgnL6sztpjHNcdioFdL73yDKyBvVf5UBReqnxCvU3SvWPpiTDK66nMHNeKLd2bDeFWjbwJHQHUAuzJX",
+      "pre_sol": 63.865316454,
+      "post_sol": 64.474451463
+    },
+    {
+      "blockTime": 1790577417,
+      "blockTimeIso": "2026-09-28T06:36:57+00:00",
+      "slot": 451240330,
+      "signature": "3wcn5HSeEHnZEKzEc2VE9WyCx87ZbrPaCiXcniL4mGBd8RrkSfAaKro2VCd5iRBvu9qQ8BXvz8F3f5AYnZykCyB3",
+      "pre_sol": 59.571762471,
+      "post_sol": 58.756630731
+    },
+    {
+      "blockTime": 1790581638,
+      "blockTimeIso": "2026-09-28T07:47:18+00:00",
+      "slot": 451256019,
+      "signature": "2CNDiUa2mEPe3AWFTpn9vB9WPTAPzSL1wV9PhmrNrnKTUEcd57tKPiCx2iD5gc7tkKatKfhk1Fz7FzU7hjPi2Mvz",
+      "pre_sol": 59.141949503,
+      "post_sol": 59.56052081
+    },
+    {
+      "blockTime": 1790585411,
+      "blockTimeIso": "2026-09-28T08:50:11+00:00",
+      "slot": 451270123,
+      "signature": "HaLp5WE1ExeGVp4JsuUswFToVm28NFv74bEGXJYqhTfJFF7LnFvAEswiVDhHfppabHMwYdePAy4ukx4t6sAnPiE",
+      "pre_sol": 60.989888369,
+      "post_sol": 60.53468101
+    }
+  ],
+  "balance_start": 64.554541505,
+  "balance_end": 60.53468101,
+  "delta_sol": -4.019860495000003,
+  "pnl_per_hour_proxy": -0.1674980645616798,
+  "time_start": "2026-09-27T08:50:13+00:00",
+  "time_end": "2026-09-28T08:50:11+00:00"
+}
