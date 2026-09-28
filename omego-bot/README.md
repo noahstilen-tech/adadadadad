@@ -15,7 +15,7 @@ Standard er **paper mode**: botten handler kun på papir (simulerede fyld på de
 | Tip | 200 000 lamports køb / 20 000 salg til tilfældig Helius Sender-tip-konto | fingerprint |
 | Tidsstop | 1800 s | 148 runder |
 
-Entry-/exit-tærsklerne (`src/strategy.ts`) fittes løbende mod optagede live-data (se nedenfor).
+**Status for beslutningslogikken:** omegos *hvornår*-signal kunne ikke udledes af on-chain-data (se `../solana-bot-analysis/reports/ANALYSE.md` §4e). Den køber i samme slot lige efter et andet køb, men hvilke køb den vælger, forklares ikke af størrelse, aktivitet, pris eller wallets. `src/strategy.ts` er en parametriseret tilnærmelse (aktivitetsfilter, trigger-køb, trailing/TP/stop/big-sell, 30 min tidsstop). Standardværdierne er **ikke** profitable i replay; brug paper mode.
 
 ## Opsætning
 
