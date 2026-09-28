@@ -100,6 +100,62 @@ def get_transaction(signature: str) -> dict | None:
     )
 
 
+def get_transactions_batch(
+    signatures: list[str], *, chunk: int = 8, pause_ms: int = 250, encoding: str = "jsonParsed"
+) -> dict[str, dict | None]:
+    """Fetch many transactions via JSON-RPC batching; retries items rejected with 429."""
+    out: dict[str, dict | None] = {}
+    pending = list(dict.fromkeys(signatures))
+    attempt = 0
+    while pending and attempt < 12:
+        retry: list[str] = []
+        for i in range(0, len(pending), chunk):
+            part = pending[i : i + chunk]
+            payload = [
+                {
+                    "jsonrpc": "2.0",
+                    "id": j,
+                    "method": "getTransaction",
+                    "params": [
+                        sig,
+                        {"encoding": encoding, "maxSupportedTransactionVersion": 1},
+                    ],
+                }
+                for j, sig in enumerate(part)
+            ]
+            req = urllib.request.Request(
+                RPC_URL,
+                data=json.dumps(payload).encode(),
+                headers={"Content-Type": "application/json"},
+                method="POST",
+            )
+            try:
+                with urllib.request.urlopen(req, timeout=90) as resp:
+                    data = json.loads(resp.read().decode())
+            except Exception:  # noqa: BLE001
+                retry.extend(part)
+                time.sleep(min(2 ** attempt, 16))
+                continue
+            if not isinstance(data, list):
+                retry.extend(part)
+                time.sleep(min(2 ** attempt, 16))
+                continue
+            for item in data:
+                sig = part[item.get("id", 0)]
+                if "error" in item:
+                    retry.append(sig)
+                else:
+                    out[sig] = item.get("result")
+            time.sleep(pause_ms / 1000)
+        pending = retry
+        if pending:
+            attempt += 1
+            time.sleep(min(2 ** attempt, 16))
+    for sig in pending:
+        out.setdefault(sig, None)
+    return out
+
+
 def get_block(slot: int, *, transactions: bool = True) -> dict | None:
     opts: dict[str, Any] = {
         "encoding": "jsonParsed",

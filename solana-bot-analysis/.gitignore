@@ -7,3 +7,4 @@ data/funding_summary.json
 __pycache__/
 *.pyc
 .Python
+data/timelines/
