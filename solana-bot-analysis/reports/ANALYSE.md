@@ -117,6 +117,43 @@ I 9 delte buy-slots: sssss før omego i 7/9 (gap 1–327). Ikke ren copy-trade.
 
 ---
 
+## 4b. Eksakt sizing-regel (erstatter den fittede formel)
+
+Rekonstrueret lamport-præcist fra 159 omego-køb (`reports/omego_execution_fingerprint.json`):
+
+```
+max_sol_cost = floor(virtual_sol_reserves / 100)            # 1 % af kurvens virtuelle SOL
+token_amount = tokens for (max_sol_cost × 0.95 / 1.0005) SOL  # 5 % slippage-pude
+```
+
+- 81/159 køb rammer `max_sol_cost = vs/100` **eksakt**; resten afviger kun fordi andre handler landede foran omego i blokken (reserverne havde flyttet sig).
+- Den tidligere fittede `0.286 + 0.00934 × real_sol` er blot netto-fyldet af denne regel (0.286/0.00934 ≈ 30.6 ≈ de 30 SOL initiale virtuelle reserver).
+- sssss (≈1.95×) svarer til 2 % af virtual SOL.
+- Kurvematematik (`cost = t·vs/(vt−t)+1`, `proceeds = t·vs/(vt+t)`) matcher 159/159 køb og 160/160 salg.
+
+## 4c. Execution-fingerprint (400 tx)
+
+| | Køb | Salg |
+|--|-----|------|
+| Rute | 54 % direkte / 46 % wrapper `bDZuQL…` | 51 % / 49 % |
+| Instruktion | `buy` 65 % / `buy_v2` 35 % | `sell` 57 % / `sell_v2` 43 % |
+| CU-limit (direkte/wrapper) | 175k / 200k | 200k / 220k |
+| Prioritet | 500 000 µLamports/CU | 500 000 µLamports/CU |
+| Tip (Helius Sender) | 200 000 lamports | 20 000 lamports |
+| Slippage | `max_sol_cost` = 5.3 % over netto-fyld | `min_sol_output = 0` |
+| Fejlrate | 27 % (6002 TooMuchSolRequired) | 7.5 % (3012 = allerede solgt; retries) |
+
+- Transaktions-version 1 uden LUT'er og uden ComputeBudget-instruktioner (budget ligger i v1-headeren).
+- Køb: opret token-ATA → (wrap wSOL) → pump `buy` → luk wSOL → tip. Salg: pump `sell` → luk token-ATA og wSOL → tip. Altid fuld exit i én tx.
+- Salg genudsendes hver 1–2 slots, indtil ét lander.
+
+## 4d. Exit-adfærd (148 runder, egne handler)
+
+- **Hårdt tidsstop på 1800 s** (flere runder slutter på præcis 1800/1801 s).
+- Exit-afkast klumper ikke ved faste TP/SL-niveauer → exits er hændelsesdrevne.
+- Tidslinjer (reserve-kædet rækkefølge i slot) viser: gevinst-exits sker typisk **på toppen i samme slot som et stort køb** (sælger ind i styrke); tabs-exits sker ved **drawdown fra top ≈ 5–10 %** eller i samme slot som store salg (gap-downs giver −30…−50 %).
+- Entries sker oftest efter et **prisspring på +5…12 % over 1–2 slots** / et køb på ≈2–4 % af virtual SOL, og på **meget aktive mints** (omego genhandler de samme få mints).
+
 ## 5. Hypoteser — status
 
 | Hypotese | Status |

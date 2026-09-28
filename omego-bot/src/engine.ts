@@ -43,11 +43,14 @@ export class Engine {
   private readonly blockhash: BlockhashCache;
   private readonly wallet: string | null;
   readonly stats: Stats = { rounds: 0, wins: 0, pnlLamports: 0 };
+  /** Event-driven clock (receive time of the tx being processed) so replays behave like live. */
+  private nowMs = 0;
 
   constructor(
     private readonly cfg: Config,
     private readonly params: StrategyParams,
     connection: Connection,
+    private readonly onRecord?: (o: Record<string, unknown>) => void,
   ) {
     this.tokenPrograms = new TokenProgramCache(connection);
     this.blockhash = new BlockhashCache(connection);
@@ -63,6 +66,7 @@ export class Engine {
   }
 
   onTx(tx: TradeTx): void {
+    this.nowMs = tx.receivedAt;
     for (const ev of tx.events) this.onEvent(ev, tx);
   }
 
@@ -87,12 +91,12 @@ export class Engine {
     if (pos) {
       if (pos.state !== "open") return;
       pos.peakPrice = Math.max(pos.peakPrice, s.price());
-      const reason = exitReason(s, pos, Date.now(), this.params);
+      const reason = exitReason(s, pos, this.nowMs, this.params);
       if (reason) void this.exit(pos, s, reason, tx.slot);
       return;
     }
     if (this.positions.size >= this.cfg.maxOpenPositions) return;
-    if ((this.cooldownUntil.get(ev.mint) ?? 0) > Date.now()) return;
+    if ((this.cooldownUntil.get(ev.mint) ?? 0) > this.nowMs) return;
     if (shouldEnter(s, this.params)) void this.enter(s, ev, tx.slot);
   }
 
@@ -120,7 +124,7 @@ export class Engine {
       costLamports: 0,
       entryPrice: s.price(),
       peakPrice: s.price(),
-      openedAtMs: Date.now(),
+      openedAtMs: this.nowMs,
       entrySlot: slot,
       info: this.mintInfo(ev, PublicKey.default),
       sellAttempts: 0,
@@ -205,7 +209,7 @@ export class Engine {
     if (pnl > 0) this.stats.wins++;
     this.stats.pnlLamports += pnl;
     if (this.params.reentryCooldownSeconds > 0) {
-      this.cooldownUntil.set(pos.mint, Date.now() + this.params.reentryCooldownSeconds * 1000);
+      this.cooldownUntil.set(pos.mint, this.nowMs + this.params.reentryCooldownSeconds * 1000);
     }
     this.log({
       kind: "sell",
@@ -214,7 +218,7 @@ export class Engine {
       slot,
       sig,
       reason: pos.exitReason,
-      holdSec: Math.round((Date.now() - pos.openedAtMs) / 1000),
+      holdSec: Math.round((this.nowMs - pos.openedAtMs) / 1000),
       pnlSol: pnl / 1e9,
       pnlPct: pnl / pos.costLamports,
       totalPnlSol: this.stats.pnlLamports / 1e9,
@@ -239,6 +243,7 @@ export class Engine {
   }
 
   private log(o: Record<string, unknown>): void {
+    if (this.onRecord) return this.onRecord(o);
     const line = JSON.stringify({ t: new Date().toISOString(), ...o });
     console.log(line);
     if (this.cfg.logFile) appendFileSync(this.cfg.logFile, line + "\n");
