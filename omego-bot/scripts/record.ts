@@ -3,7 +3,6 @@
  * replaying the strategy offline against what omego actually did.
  *   OUT=data/stream.jsonl npx tsx scripts/record.ts
  */
-import { Connection } from "@solana/web3.js";
 import { createWriteStream, mkdirSync } from "node:fs";
 import { dirname } from "node:path";
 import { loadConfig } from "../src/config.js";
@@ -13,10 +12,9 @@ const out = process.env.OUT ?? "data/stream.jsonl";
 mkdirSync(dirname(out), { recursive: true });
 const file = createWriteStream(out, { flags: "a" });
 const cfg = loadConfig();
-const connection = new Connection(cfg.rpcUrl, { commitment: "processed", wsEndpoint: cfg.wsUrl });
 
 let n = 0;
-await streamPumpTrades({ grpcEndpoint: cfg.grpcEndpoint, grpcToken: cfg.grpcToken, connection }, (tx) => {
+await streamPumpTrades({ grpcEndpoint: cfg.grpcEndpoint, grpcToken: cfg.grpcToken, rpcUrl: cfg.rpcUrl, wsUrl: cfg.wsUrl }, (tx) => {
   n++;
   file.write(
     JSON.stringify({

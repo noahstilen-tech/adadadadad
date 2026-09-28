@@ -13,7 +13,7 @@ async function main(): Promise<void> {
     `[omego-bot] mode=${cfg.mode} size=${cfg.sizePctOfVirtualSol}% of virtual SOL wallet=${cfg.keypair?.publicKey.toBase58() ?? "-"} shadow=${cfg.shadowWallet?.toBase58() ?? "-"}`,
   );
   const stop = await streamPumpTrades(
-    { grpcEndpoint: cfg.grpcEndpoint, grpcToken: cfg.grpcToken, connection },
+    { grpcEndpoint: cfg.grpcEndpoint, grpcToken: cfg.grpcToken, rpcUrl: cfg.rpcUrl, wsUrl: cfg.wsUrl },
     (tx) => engine.onTx(tx),
   );
   const shutdown = () => {

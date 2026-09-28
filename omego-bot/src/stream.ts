@@ -19,13 +19,14 @@ export type TradeHandler = (tx: TradeTx) => void;
 export interface StreamOptions {
   grpcEndpoint: string | null;
   grpcToken: string | null;
-  connection: Connection;
+  rpcUrl: string;
+  wsUrl: string;
 }
 
 /** Streams successful pump.fun transactions at processed commitment. */
 export async function streamPumpTrades(opts: StreamOptions, onTx: TradeHandler): Promise<() => void> {
   if (opts.grpcEndpoint) return streamGrpc(opts.grpcEndpoint, opts.grpcToken, onTx);
-  return streamWebsocket(opts.connection, onTx);
+  return streamWebsocket(opts.rpcUrl, opts.wsUrl, onTx);
 }
 
 type GrpcClientCtor = new (
@@ -81,17 +82,42 @@ async function streamGrpc(endpoint: string, token: string | null, onTx: TradeHan
   return () => stream.destroy();
 }
 
-async function streamWebsocket(connection: Connection, onTx: TradeHandler): Promise<() => void> {
-  const id = connection.onLogs(
-    PUMP_PROGRAM_ID,
-    (logs, ctx) => {
-      if (logs.err) return;
-      const events = extractTradeEvents(logs.logs);
-      if (events.length === 0) return;
-      onTx({ signature: logs.signature, slot: ctx.slot, txIndex: null, events, receivedAt: Date.now() });
-    },
-    "processed",
-  );
+const WS_STALL_MS = 15_000;
+
+async function streamWebsocket(rpcUrl: string, wsUrl: string, onTx: TradeHandler): Promise<() => void> {
+  const connect = () => new Connection(rpcUrl, { commitment: "processed", wsEndpoint: wsUrl });
+  let lastMsg = Date.now();
+  let conn = connect();
+  let id: number | null = null;
+  const seen = new Set<string>();
+  const subscribe = () => {
+    id = conn.onLogs(
+      PUMP_PROGRAM_ID,
+      (logs, ctx) => {
+        lastMsg = Date.now();
+        if (logs.err || seen.has(logs.signature)) return;
+        seen.add(logs.signature);
+        if (seen.size > 50_000) seen.clear();
+        const events = extractTradeEvents(logs.logs);
+        if (events.length === 0) return;
+        onTx({ signature: logs.signature, slot: ctx.slot, txIndex: null, events, receivedAt: lastMsg });
+      },
+      "processed",
+    );
+  };
+  subscribe();
   console.log("[ws] subscribed to pump.fun logs (fallback; slower than gRPC)");
-  return () => void connection.removeOnLogsListener(id);
+  // Public endpoints drop busy subscriptions silently; rebuild the socket when data stops.
+  const watchdog = setInterval(() => {
+    if (Date.now() - lastMsg < WS_STALL_MS) return;
+    console.error("[ws] no data for 15s, reconnecting");
+    if (id !== null) void conn.removeOnLogsListener(id).catch(() => undefined);
+    conn = connect();
+    lastMsg = Date.now();
+    subscribe();
+  }, 5_000);
+  return () => {
+    clearInterval(watchdog);
+    if (id !== null) void conn.removeOnLogsListener(id);
+  };
 }

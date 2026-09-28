@@ -31,7 +31,7 @@ function trade(vsSol: number, isBuy: boolean): TradeEvent {
   const k = 30e9 * 1_073_000_000e6;
   const vs = BigInt(Math.round(vsSol * 1e9));
   return {
-    mint: MINT, solAmount: 100_000_000n, tokenAmount: 1_000_000_000n, isBuy, user: "someone", timestamp: 0,
+    mint: MINT, solAmount: 1_000_000_000n, tokenAmount: 1_000_000_000n, isBuy, user: "someone", timestamp: 0,
     virtualSolReserves: vs, virtualTokenReserves: BigInt(Math.round(k / Number(vs))), realSolReserves: vs - 30_000_000_000n,
     realTokenReserves: 0n, feeBasisPoints: 95n, creator: "11111111111111111111111111111111", creatorFeeBasisPoints: 30n,
     ixName: "buy", mayhemMode: false, cashbackFeeBasisPoints: 0n,
@@ -40,7 +40,7 @@ function trade(vsSol: number, isBuy: boolean): TradeEvent {
 
 test("paper round: enters on a jump, exits on the trailing stop", () => {
   const recs: Record<string, unknown>[] = [];
-  const engine = new Engine(cfg, DEFAULT_PARAMS, new Connection(cfg.rpcUrl), (o) => recs.push(o));
+  const engine = new Engine(cfg, { ...DEFAULT_PARAMS, minTrades: 0 }, new Connection(cfg.rpcUrl), (o) => recs.push(o));
   let slot = 100;
   const feed = (vsSol: number, isBuy = true) =>
     engine.onTx({ signature: `s${slot}`, slot: slot++, txIndex: 0, events: [trade(vsSol, isBuy)], receivedAt: slot * 400 });

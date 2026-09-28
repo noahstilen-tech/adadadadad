@@ -154,6 +154,23 @@ token_amount = tokens for (max_sol_cost × 0.95 / 1.0005) SOL  # 5 % slippage-pu
 - Tidslinjer (reserve-kædet rækkefølge i slot) viser: gevinst-exits sker typisk **på toppen i samme slot som et stort køb** (sælger ind i styrke); tabs-exits sker ved **drawdown fra top ≈ 5–10 %** eller i samme slot som store salg (gap-downs giver −30…−50 %).
 - Entries sker oftest efter et **prisspring på +5…12 % over 1–2 slots** / et køb på ≈2–4 % af virtual SOL, og på **meget aktive mints** (omego genhandler de samme få mints).
 
+## 4e. Beslutningslogik: hvad kan og kan ikke genskabes (live-optagelse)
+
+Datagrundlag: 17 min fuld pump.fun-strøm via WebSocket (`omego-bot/scripts/record.ts`, ~95 % dækning), 91 omego-køb / 77 runder, omego-PnL **+2.03 SOL** (≈ +7 SOL/t, win 48 %, median-runde −0.5 %, gennemsnit +2.4 %).
+
+| Test | Resultat |
+|------|----------|
+| Timing | **92 % af omegos køb lander lige efter et andet køb**, 75 % i samme slot → backrunning i samme slot |
+| Trigger-købets størrelse | 0.006–3 SOL (bredt); kun svagt forskelligt fra andre køb (runde beløb 24 % vs 12 %, mid-curve 85 % vs 53 %) |
+| Mint-udvælgelse | Omegos mint er top-5 mest aktive (10 s) ved ~55 % af købene; genhandler samme få mints |
+| Copy-trade af én leder-wallet | Nej (entry-køber sælger før exit i 17/77 runder) |
+| Exit = trailing/TP/stop | Bedste prisregel rammer exit-slot ±2 i 18/77 runder |
+| Beslutningstræer (markedsfeatures) | Test-præcision 5 % (entry) / 15 % (exit) — generaliserer ikke |
+| Random search af regelsæt (samme engine som botten) | Top-5 på træning taber alle på test |
+| **Spejling af omego** (købe/sælge når vi ser dens tx) | lag 0 slots: +0.26 SOL, **lag 1: −0.23**, lag 2: −1.31 (vs omego +2.03) |
+
+**Konklusion:** Sizing, eksekvering og tidsstop er genskabt eksakt. Selve *hvornår*-beslutningen styres af et signal, der ikke kan udledes af on-chain-handelsdata alene, og omegos fordel ligger i at handle **i samme slot** som signalet. At følge efter (≥1 slot) er tabsgivende.
+
 ## 5. Hypoteser — status
 
 | Hypotese | Status |
