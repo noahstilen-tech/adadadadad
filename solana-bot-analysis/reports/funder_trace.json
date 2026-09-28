@@ -1,0 +1,188 @@
+{
+  "funders": {
+    "CvKB_funder": {
+      "n_sigs": 5000,
+      "top_outs": [
+        [
+          "CvKBPvEmcvsVPa5gCcvKwNAGUwUhMQNbRv4mdpGtTEWo",
+          110.531257942
+        ]
+      ],
+      "events": [
+        {
+          "to": "CvKBPvEmcvsVPa5gCcvKwNAGUwUhMQNbRv4mdpGtTEWo",
+          "sol": 110.531257942,
+          "t": "2026-07-27T00:08:35+00:00",
+          "sig": "3BLw8EHHAbC7HTrzVxWzYE52XdTs2jrYfGtaNav73TWPqz9cCbqcPzuoc6vpymHWsf9WQk8eEoi2UNTgYgMVNVFd"
+        }
+      ]
+    },
+    "9Nii_funder": {
+      "n_sigs": 5000,
+      "top_outs": [
+        [
+          "4DTTpRo9BtATsVgxtiLtnFRLxiYGhCtuXrJ2njs2tgJC",
+          4699.0
+        ],
+        [
+          "BCNsHAH2887uUF4gdZsph28oNYbgpjgrtVk7Fi7yN67t",
+          489.298
+        ],
+        [
+          "2X5P3YujnYJxX1FneimbqiQiyHCsPyWgEprAbrCcpnno",
+          209.909
+        ],
+        [
+          "9drWBMPudSk5caMpQ9EcGXvrthYMQwLcMs2z5HQjMvrY",
+          200.20070434
+        ],
+        [
+          "8ZgAmj7fSo2eTcwidgg4uUYLZRXi8vyeFuywmA8FBQAv",
+          86.28792951
+        ],
+        [
+          "BAgkNCJ2nu8CmJHCPLfNGbCD3sv4aG8FhFu5nEDLmfnE",
+          39.43450065
+        ],
+        [
+          "3vxW8fvbeBxT9zeh1BZDSWbKLaPqvVwkM89bkLiyMDNB",
+          31.883
+        ],
+        [
+          "F5gFTPKoKf2MnKQyJcXshB18yvchTcnccCMyJtskXsZo",
+          24.921
+        ],
+        [
+          "FAdQDgsiF1U981NJBaRntTwdpfAAkhTR1s3DRDxSELuq",
+          19.999
+        ],
+        [
+          "7Ri2yt3uu8PKYtXeR18ohyjCBGsRL4rVuMMQosBPqaMC",
+          10.5774164
+        ],
+        [
+          "7Axt6kZuxivBU6RDzmVchJLNx46SvNNBUdyTV7Y6WY7b",
+          7.172022
+        ],
+        [
+          "BT8HFgD5kwsqBDhnAy87iUjUiNYcWoeUDZj6b2MAoof4",
+          6.281255
+        ],
+        [
+          "GUu8wA34yTFDwHkjGf1ZruqLAYd3Uc8Rt5kot8zA7WdW",
+          5.91550597
+        ],
+        [
+          "7NcUHfH2j5ryxA918btrEaLjrCacn9Lu5VSRFp7L2aFR",
+          5.232761
+        ],
+        [
+          "8dDse92hnKxokSLdnznR1svFRwmr5qGfQZK8FFXtrctV",
+          5.171745
+        ]
+      ],
+      "events": [
+        {
+          "to": "BAgkNCJ2nu8CmJHCPLfNGbCD3sv4aG8FhFu5nEDLmfnE",
+          "sol": 39.43450065,
+          "t": "2026-09-28T09:17:29+00:00",
+          "sig": "2sGwm7WqvVjRF54RMBFk2pb1Scy7nrVnN4smvYwPR3LRKkXVGKtyC3gX54igJ2je8jZNQZjke3Tg19jiVGCxdhSN"
+        },
+        {
+          "to": "BCNsHAH2887uUF4gdZsph28oNYbgpjgrtVk7Fi7yN67t",
+          "sol": 489.298,
+          "t": "2026-09-28T09:17:07+00:00",
+          "sig": "4udgPSVj2xabC7R3FwzVbJE1YU61mPVVVdtL6HcmE8kRJyosMCPnjuMtgQ1UNJqg12uveNH53jVjPzDjz8NZXZ31"
+        },
+        {
+          "to": "F5gFTPKoKf2MnKQyJcXshB18yvchTcnccCMyJtskXsZo",
+          "sol": 24.921,
+          "t": "2026-09-28T09:16:54+00:00",
+          "sig": "3Az82vdWFx5yKaNe2yCSxUqMWz6ZFtKvEggtdvDzFLYkDUFqva7hhVfXBbZYvTkY4KrGdzdU4rDYNR4V4NoCS7zp"
+        },
+        {
+          "to": "4DTTpRo9BtATsVgxtiLtnFRLxiYGhCtuXrJ2njs2tgJC",
+          "sol": 4699.0,
+          "t": "2026-09-28T09:16:47+00:00",
+          "sig": "25SoLmpx4KjnJqapZRUUqiAuap49ewoVYusbAT8jQ3vaQbjWUHi1L6SfrxxxhWYvmvbbwUY9kji6qpBNVqBKaw4s"
+        },
+        {
+          "to": "7Ri2yt3uu8PKYtXeR18ohyjCBGsRL4rVuMMQosBPqaMC",
+          "sol": 10.5774164,
+          "t": "2026-09-28T05:29:03+00:00",
+          "sig": "5hYffXR4eaTEm23XaANmkyjDM7bqYoP4xi6PVdmSocrxhBkhyD7m7v4vdXa9cNikvJaFFpbRWL4MVUeppX3xeFaY"
+        },
+        {
+          "to": "2X5P3YujnYJxX1FneimbqiQiyHCsPyWgEprAbrCcpnno",
+          "sol": 209.909,
+          "t": "2026-09-28T05:30:43+00:00",
+          "sig": "4jjEyvbJXZZoFuhHsNFMrv3iEaarhSbSSTN7RR3L7jX8LYyJEprL8Y5AVDJgkvkq6hQ8XdnV5jHEWZtbz2X3Zi88"
+        },
+        {
+          "to": "FAdQDgsiF1U981NJBaRntTwdpfAAkhTR1s3DRDxSELuq",
+          "sol": 19.999,
+          "t": "2026-09-28T05:32:24+00:00",
+          "sig": "4s8DqRuxjK2w9BqPeFwBKEfCmwrbSFrw8mim8tGAmKh8gWDjaXvtudbCPVqDjMr4opR5xcPEE9MUBwMesnN8Q7N7"
+        },
+        {
+          "to": "3vxW8fvbeBxT9zeh1BZDSWbKLaPqvVwkM89bkLiyMDNB",
+          "sol": 31.883,
+          "t": "2026-09-28T05:32:28+00:00",
+          "sig": "WNJgy7BZoY69HnaYx3s9Ddx8gDkVhkFLDhXCKfn7z4DEWSbxz3Cj3txyNELTomjwh8CxT4LHj6e7Kh9WX1uHUxE"
+        },
+        {
+          "to": "9drWBMPudSk5caMpQ9EcGXvrthYMQwLcMs2z5HQjMvrY",
+          "sol": 200.20070434,
+          "t": "2026-09-28T05:32:41+00:00",
+          "sig": "2tcR2GB3YSDuqnpMhQNYj4v1svA7FNoMhMuhiM9kqJ2rsYKjsQicozJz1oGSa4S5RqnN32vq5TXi9piqFiNJK93o"
+        },
+        {
+          "to": "8dDse92hnKxokSLdnznR1svFRwmr5qGfQZK8FFXtrctV",
+          "sol": 5.171745,
+          "t": "2026-09-28T08:03:45+00:00",
+          "sig": "2TKccrbkmapMvMT5ysZiZvuZLEKNrhNFuQ7vFK9ZoAyWwGAiuMBju23gGnQDRN47T1n43erCFFNXZFJXx1FVbrb"
+        },
+        {
+          "to": "BT8HFgD5kwsqBDhnAy87iUjUiNYcWoeUDZj6b2MAoof4",
+          "sol": 6.281255,
+          "t": "2026-09-28T08:03:45+00:00",
+          "sig": "2TKccrbkmapMvMT5ysZiZvuZLEKNrhNFuQ7vFK9ZoAyWwGAiuMBju23gGnQDRN47T1n43erCFFNXZFJXx1FVbrb"
+        },
+        {
+          "to": "7Axt6kZuxivBU6RDzmVchJLNx46SvNNBUdyTV7Y6WY7b",
+          "sol": 7.172022,
+          "t": "2026-09-28T08:03:45+00:00",
+          "sig": "2TKccrbkmapMvMT5ysZiZvuZLEKNrhNFuQ7vFK9ZoAyWwGAiuMBju23gGnQDRN47T1n43erCFFNXZFJXx1FVbrb"
+        },
+        {
+          "to": "7NcUHfH2j5ryxA918btrEaLjrCacn9Lu5VSRFp7L2aFR",
+          "sol": 5.232761,
+          "t": "2026-09-28T06:55:04+00:00",
+          "sig": "5urJimbCNperk9Fv9fsEJsE4dJsyChC9FTesHpoJ2NRU8mLuFWsWaaLBST3YcGaqDT97hVGGxGUWXxwh9RHuGXFK"
+        },
+        {
+          "to": "GUu8wA34yTFDwHkjGf1ZruqLAYd3Uc8Rt5kot8zA7WdW",
+          "sol": 5.91550597,
+          "t": "2026-09-28T06:55:04+00:00",
+          "sig": "5urJimbCNperk9Fv9fsEJsE4dJsyChC9FTesHpoJ2NRU8mLuFWsWaaLBST3YcGaqDT97hVGGxGUWXxwh9RHuGXFK"
+        },
+        {
+          "to": "8ZgAmj7fSo2eTcwidgg4uUYLZRXi8vyeFuywmA8FBQAv",
+          "sol": 86.28792951,
+          "t": "2026-09-28T06:28:40+00:00",
+          "sig": "3o4yopMahsjyjAjukwDxSAjMxxNCk6hwEu8tCULr7dDHhi5PjZsuPxaHcatVPmBoytUPmMFucHM8bPuKxQKpQnRw"
+        }
+      ]
+    }
+  },
+  "cross": [
+    {
+      "funder": "CvKB_funder",
+      "to_bot": "4x_CvKB",
+      "sol": 110.531257942,
+      "t": "2026-07-27T00:08:35+00:00",
+      "sig": "3BLw8EHHAbC7HTrzVxWzYE52XdTs2jrYfGtaNav73TWPqz9cCbqcPzuoc6vpymHWsf9WQk8eEoi2UNTgYgMVNVFd"
+    }
+  ],
+  "shared_tip": "3KCKozbAaF75qEU33jtzozcJ29yJuaLJTy2jFdzUY8bT"
+}
