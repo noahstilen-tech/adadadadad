@@ -8,3 +8,4 @@ __pycache__/
 *.pyc
 .Python
 data/timelines/
+data/*.pkl
